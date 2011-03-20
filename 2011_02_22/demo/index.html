@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+  <title>jQuery Autocomplete Plugin</title>
+  
+  <script src="jquery.js"></script>
+  <script src="jquery.autocomplete.js"></script>
+  <script src="localdata.js"></script>
+  
+  <link rel="stylesheet" href="main.css" />
+  <link rel="stylesheet" href="jquery.autocomplete.css" />
+
+  <script type="text/javascript">
+  $( document ).ready(function() {
+    $("#suggest1").focus().autocomplete( cities );
+  });
+  </script>
+
+</head>
+
+<body>
+
+  <h1 id="banner">jQuery Autocomplete Plugin</h1>
+
+  <div id="content">
+
+    <form autocomplete="off">
+      <p>
+        <label>Single City (local):</label>
+        <input type="text" id="suggest1" />
+      </p>
+
+      <input type="submit" value="Submit" />
+    </form>
+
+  </div>
+</body>
+</html>

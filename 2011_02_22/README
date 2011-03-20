@@ -1,0 +1,6 @@
+README
+
+O problema consiste em criar um plugin jQuery de autocomplete usando BDD e a ferramenta de testes Jasmine.
+
+A versão do plugin funcionando se encontra na pasta "demo/" e o framework já ficou montado na pasta "tests/".
+
