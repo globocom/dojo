@@ -1,23 +1,33 @@
 class Bowling
+
   def jogadas(jogadas)
-    soma = 0
-    jogadas.chars.each_with_index do |jogada, index|
-      if jogada == 'X'
-        soma += 30
-      end
-      
-      if index + 1 <= jogadas.size and jogadas[index + 1] == '/'
-        soma -= jogada.to_i
-      end
-      
-      if jogada.to_i > 0
-        soma += jogada.to_i
-      end
-            
-      if jogada == '/'
-        soma += 15
-      end
-    end
-    return soma
+
+    resultado  = conta_pontuacao_para_strikes(jogadas)
+    resultado += conta_pontuacao_para_spares(jogadas)
+
+    moves      = remover_jogadas_computadas(jogadas, [/X/, /\d{1}\//, /-/])
+
+    resultado += conta_pontuacao_para_acertos(jogadas) unless jogadas.empty?
+
+    return resultado
   end
+
+  def conta_pontuacao_para_strikes(jogadas)
+    jogadas.count('X') * 30
+  end
+
+  def conta_pontuacao_para_spares(jogadas)
+    jogadas.count('/') * 15
+  end
+
+  private
+    def conta_pontuacao_para_acertos(jogadas)
+      jogadas.chars.collect(&:to_i).inject(&:+)
+    end
+
+    def remover_jogadas_computadas(jogadas, para_remover)
+      para_remover.each { |pattern| jogadas.gsub!(pattern, '') }
+      jogadas
+    end
 end
+
