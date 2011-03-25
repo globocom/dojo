@@ -1,6 +1,6 @@
 class Bowling
 
-  def jogadas(jogadas)
+  def pontuacao_para(jogadas)
 
     resultado  = conta_pontuacao_para_strikes(jogadas)
     resultado += conta_pontuacao_para_spares(jogadas)
