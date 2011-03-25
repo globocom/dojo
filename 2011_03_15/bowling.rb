@@ -1,3 +1,4 @@
+# TODO conceito de strikes e spares se repete
 class Bowling
 
   def pontuacao_para(jogadas)
