@@ -6,7 +6,7 @@ class Bowling
     resultado  = conta_pontuacao_para_strikes(jogadas)
     resultado += conta_pontuacao_para_spares(jogadas)
 
-    moves      = remover_jogadas_computadas(jogadas, [/X/, /\d{1}\//, /-/])
+    jogadas    = remover_jogadas_computadas(jogadas, [/X/, /\d{1}\//, /-/])
 
     resultado += conta_pontuacao_para_acertos(jogadas) unless jogadas.empty?
 
