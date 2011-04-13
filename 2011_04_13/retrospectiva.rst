@@ -12,4 +12,10 @@
 * Enrolaram pra liberar a sala
 * Siminino mandando e-mail errado
 
-*Próximo dojo:* Siminino de novo
+Melhorar
+========
+
+* Mandar e-mail certo
+* Compromisso da galera
+
+**Próximo dojo:** Siminino de novo
