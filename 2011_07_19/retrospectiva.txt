@@ -1,0 +1,30 @@
+:)
+
+- problema maneiro ++++++
+- maneiro ser em C ++++
+- aprender uma linguagem diferente +++++
+- pizza ++++++++++++++
+- a solução evoluiu gradativamente +
+- terminamos o dojo com todos os testes passando +
+- vinicius nao destruiu o problema +
+- tdd em C +++
+- todos programaram ++
+- foi mais de uma rodada ++
+
+:(
+
+- algumas pessoas chegaram atrasadas
+- falamos demais em alguns momentos +++
+- falamos demais enquanto a dupla estava falando ++
+- primeiro passo foi muito grande
+- editor escroto +++++
+
+o que melhorar?
+
+- trazer no mínimo 3 problemas lidos como sugestão
+- estudar ferramentas de teste em C 
+- seven languages in seven weeks
+
+proximo dojo
+============
+dojo kahuna - flavia missi

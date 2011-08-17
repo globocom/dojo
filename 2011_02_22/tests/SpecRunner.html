@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+  <title>Jasmine Test Runner</title>
+  
+  <link href="lib/jasmine-1.0.0/jasmine.css" rel="stylesheet" />
+  <link href="stylesheets/jquery.autocomplete.css" rel="stylesheet" />
+
+  <script src="lib/jasmine-1.0.0/jasmine.js"></script>
+  <script src="lib/jasmine-1.0.0/jasmine-html.js"></script>
+  <script src="lib/jquery-1.4.4/jquery.js"></script>
+	<script src="fixtures/localdata.js"></script>
+  <!-- include source files here... -->
+  <script src="src/Plugin.js"></script>
+
+  <!-- include spec files here... -->
+  <script src="spec/PluginSpec.js"></script>
+</head>
+
+<body>
+
+<div id="main">
+  
+  <form autocomplete="off">
+    <p>
+      <label>Single City (local):</label>
+      <input type="text" id="suggest1" />
+    </p>
+  </form>
+  
+</div>
+	
+<script>
+jasmine.getEnv().addReporter(new jasmine.TrivialReporter());
+jasmine.getEnv().execute();
+</script>
+
+</body>
+
+</html>
