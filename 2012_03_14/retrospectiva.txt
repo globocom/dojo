@@ -1,0 +1,25 @@
+=)
+
+* test case separados 
+* resolvido o problema
+* solucao do problema
+* problema bom para fazer baby-steps
+* nao usamos "dumb steps"
+* veio pouca gente (mais tempo para codar)
+
+=/
+
+* nao usar solucoes "tudo em uma linha"
+* veio pouca gente
+* "corno job"
+* definir horario para 12 e 45
+
+participantes
+=============
+
+Tarsis Azevedo
+Vinicius Mendes
+Francisco Souza
+Andrews Medina
+Mayza de Oliveira
+Danilo Moret
