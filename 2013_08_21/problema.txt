@@ -1,0 +1,10 @@
+Dado um número escrito na forma Romana, devemos imprimir o seu valor inteiro.
+
+Os números romanos são representados pelos símbolos IVXLCDM que correspondem a
+1, 5, 10, 50, 100, 500, 1000 respectivamente.
+
+
+Exemplo:
+
+XX = 20
+XXIII = 23

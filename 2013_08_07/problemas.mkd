@@ -1,0 +1,15 @@
+#Um mundo pequeno
+
+http://dojopuzzles.com/problemas/exibe/um-mundo-pequeno/
+
+#Entradas no banco
+
+http://dojopuzzles.com/problemas/exibe/entradas-no-banco/
+
+#Descubra o assassino
+
+http://dojopuzzles.com/problemas/exibe/descubra-o-assassino/
+
+#Quebra de linha
+
+http://dojopuzzles.com/problemas/exibe/quebra-de-linha/

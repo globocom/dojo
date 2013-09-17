@@ -1,0 +1,36 @@
+:)
+
+- Primeiro dojo em Go
+- Muitos novatos
+- Participação de estagiário
+
+:(
+
+- Faltou pizza
+- Pressão para as pessoas irem no teclado
+- Faltou um problema que explorasse melhor a linguagem
+
+Sugestões de melhoria
+
+Participantes
+
+- Caio
+- Ciro
+- Daniel
+- Darlene
+- Felipe
+- Francisco
+- Garnier
+- Nelson Marcos
+- Rafael Cunha
+- Rafael Lages
+- Roberto
+- Rodrigo Morgado
+- Rodrigo Senra
+- Tatiana Al-Chueyr
+- Thiago
+
+Próximo dojo
+
+14/08 -> go horse()
+  Responsável: Roberto

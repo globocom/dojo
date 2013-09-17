@@ -1,0 +1,3 @@
+# Sleeping barber problem
+
+http://en.wikipedia.org/wiki/Sleeping_barber_problem
