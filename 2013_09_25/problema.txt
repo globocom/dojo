@@ -1,0 +1,22 @@
+Battleship
+==========
+
+Nesse projeto você criará uma versão simplificada do game clássico Battleship.
+O jogo consiste em um tabuleiro de 5x5 "O"s com um "navio" escondido em uma localização aleatória.
+O jogador terá 5 chances para acertar a posição em que o navio está escondido.
+
+OOOOO
+OOOOO
+OOOOO
+OOOOO
+OOOOO
+
+Ao errar uma posição, esta deve ser marcada com um "x" e uma mensagem exibida dizendo quantas chances ele ainda possui.
+
+OOOOO
+OxOOO
+OOOOO
+OOOxO
+OOOOO
+
+Ao acertar a posição do "navio", uma mensagem de felicitação é exibida e o jogo termina.
