@@ -1,0 +1,23 @@
+Participantes:
+ - Daniel (Tião)
+ - Rafael Lages 
+ - Roberto Soares
+ - Rodrigo Senra
+ - Tatiana Martins
+
+Pontos Positivos:
+ - Colaboração na construção da solução
+ - Ausência de conversas paralelas
+ - Uso de PyCharm
+ - Problema interessante (quadrado mágico)
+ - Começamos no horário
+ - Tamanho do grupo permitiu bastante interação entre os participantes
+ - Ctrl+4
+
+Pontos Negativos:
+ - Executamos apenas parcialmente a tarefa (validação do quadrado mágico)
+ - Dificuldade de se utilizar o notebook de outra pessoa com diferente ergonomia
+ - Ctlr+4
+ - Ausência do NM
+
+ 
