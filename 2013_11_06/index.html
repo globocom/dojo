@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Dojo Carousel</title>
+    <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1">
+
+    <style>
+      html, body, #carousel, #carousel ul, #carousel li {
+        min-height: 100%;
+        height: 100%;
+        padding: 0;
+        margin: 0;
+        position: relative;
+      }
+
+      #carousel li{
+        width: 100%;
+        font-size: 30px;
+        position: absolute;
+        text-align: center;
+      }
+
+      #carousel .arrow {
+        position: absolute;
+        top: 50%;
+        width: 128px;
+        height: 128px;
+      }
+
+      #carousel .arrow-left {
+        left: 0;
+        background-image: url("/src/arrow-left.png");
+      }
+
+      #carousel .arrow-right {
+        right: 0;
+        background-image: url("/src/arrow-right.png");
+      }
+
+      #carousel li.frame1 { background: #42d692; }
+      #carousel li.frame2 { background: #4986e7; }
+      #carousel li.frame3 { background: #d06b64; }
+      #carousel li.frame4 { background: #cd74e6; }
+      #carousel li.frame5 { background: #9fe1e7; }
+    </style>
+  </head>
+
+  <body>
+    <ul id="carousel">
+      <li class="frame1"><h2>1</h2></li>
+      <li class="frame2"><h2>2</h2></li>
+      <li class="frame3"><h2>3</h2></li>
+      <li class="frame4"><h2>4</h2></li>
+      <li class="frame5"><h2>5</h2></li>
+
+      <a href="#" class="arrow arrow-left"></a>
+      <a href="#" class="arrow arrow-right"></a>
+    </ul>
+
+
+    <script src="http://code.jquery.com/jquery-2.0.3.min.js"></script>
+    <script src="src/carousel.js"></script>
+
+  </body>
+</html>
