@@ -23,6 +23,12 @@ describe("Carousel", function() {
     it("armazena um elemento", function() {
       expect(carousel.elemento).toEqual(elemento);
     });
+
+    it("deveria troca o atual pelo próximo item", function() {
+      expect(carousel.itemAtual().text()).toBe("item 1");
+      $(".arrow-right", elemento).click();
+      expect(carousel.itemAtual().text()).toBe("item 2");
+    });
   });
 
   describe("numeroItens", function() {
@@ -53,4 +59,17 @@ describe("Carousel", function() {
     });
   });
 
+  describe("itemAnterior", function() {
+    it("retorna o ultimo item quando o atual e o primeiro", function() {
+      carousel.itemAnterior();
+      expect(carousel.itemAtual().text()).toBe("item 5");
+    });
+
+    it("retorna o item anterior do item atual", function() {
+      expect(carousel.itemAtual().text()).toBe("item 1");
+      carousel.itemAnterior();
+      carousel.itemAnterior();
+      expect(carousel.itemAtual().text()).toBe("item 4");
+    });
+  });
 });
