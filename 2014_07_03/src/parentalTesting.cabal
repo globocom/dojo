@@ -1,0 +1,15 @@
+Name:           parentalTesting
+cabal-version:  >= 1.2
+Version:        0.1
+Author:         Globo <globo@globo.com>
+Maintainer:     Globo <globo@globo.com>
+build-type:     Simple
+
+Library
+    Build-depends: base
+    Exposed-Modules: ParentalTesting
+
+Test-suite main
+    Build-Depends: tasty, tasty-quickcheck, tasty-hunit, tasty-th, QuickCheck
+    main-is: Test.hs
+    Type: exitcode-stdio-1.0
