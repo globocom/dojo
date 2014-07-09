@@ -1,0 +1,10 @@
+[
+  {"grupo": "A", "times": ["Brasil", "Croácia", "México", "Camarões"]},
+  {"grupo": "B", "times": ["Espanha", "Holanda", "Chile", "Austrália"]},
+  {"grupo": "C", "times": ["Colômbia", "Grécia", "Costa do Marfim", "Japão"]},
+  {"grupo": "D", "times": ["Uruguai", "Costa Rica", "Inglaterra", "Itália"]},
+  {"grupo": "E", "times": ["Suíça", "Equador", "França", "Honduras"]},
+  {"grupo": "F", "times": ["Argentina", "Bósnia e Herzegovina", "Irã", "Nigéria"]},
+  {"grupo": "G", "times": ["Alemanha", "Portugal", "Gana", "Estados Unidos"]},
+  {"grupo": "H", "times": ["Bélgica", "Argélia", "Rússia", "Coréia do Sul"]}
+]
