@@ -3,7 +3,7 @@
 Problema
 ========
 
-- CHIP8
+- CHIP8 (dica do @thiagopnts)
 - http://rubyquiz.com/quiz88.html
 
 Chamada
