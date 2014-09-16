@@ -1,0 +1,22 @@
+Retrospectiva
+
+Participantes
+Bigode @lukasrms
+Caio @caiobrentano
+T8l @tatiana
+Bob @roberto
+Rafael @aflag
+Felipe @lipemorais
+
+:)
+
+- Felisp
+- python builtin functions maketrans and translate
+- 80% resolvido
+- jabá
+    - http://horaextra.org
+    - http://learnhowtocode.in/
+
+:(
+
+- atraso
