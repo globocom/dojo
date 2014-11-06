@@ -1,21 +1,24 @@
-Members
-Thiago Pontes @thiagopnts
-Felipe de Morais @lipemorais
-Caio Passos @caiobrentano
-Garnier @gganier
-Moret @moret
-Rafael @aflag
-Roberto @roberto
+# Dojo 04/10/2014
 
-:)
+Participantes
 
-xinaider saca do Rust da semana e ajudou a gente.
-começou cedo
-mais gente
-Moret veio
-Compilou!
+- Thiago Pontes @thiagopnts
+- Felipe de Morais @lipemorais
+- Caio Passos @caiobrentano
+- Garnier @gganier
+- Moret @moret
+- Rafael @aflag
+- Roberto @roberto
 
-:(
+## ++
 
-não terminamos o problema
-faltou pizza
+- Xinaider saca do Rust da semana e ajudou a gente.
+- Começou cedo
+- Mais gente
+- Moret veio
+- Compilou!
+
+## -- 
+
+- Não terminamos o problema
+- Faltou pizza
