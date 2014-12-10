@@ -1,20 +1,20 @@
-### Rustrospectiva
+### Rustrospectiva (10/12/2014)
 
 - Rafael (@aflag)
 - Guilherme (@ggarnier)
 - Thiago (@thiagopnts)
 - Celio (@celiofonseca)
-- Felipe (@lipemorais)
 - Roberto (@roberto)
+- Moret (@moret)
 
 #### Pontos positivos
 
-- Fizemos um Vec<Vec>
-- Hoje compilou no Rust de hoje
-- Acabamos de chegar no problema
-- Horario - deu pra almocar
+- finalmente estamos no problema inicial
+- Moret veio! :-D
 
 #### Pontos negativos
 
-- Ainda nao chegamos no problema
-- Bob e suas piadas +++++
+- vec! não funcionou
+- novamente não completamos
+- terminamos com testes quebrando
+- unwrap a mais do que a paciência permite
