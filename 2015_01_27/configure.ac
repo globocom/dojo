@@ -1,7 +1,9 @@
 AC_PREREQ([2.59])
 AC_INIT([stack], [1.0], [dojo@globo.com])
-AM_INIT_AUTOMAKE([-Wall -Werror foreign])
+
 AC_CONFIG_AUX_DIR([build-aux])
+
+AM_INIT_AUTOMAKE([-Wall -Werror foreign])
 AM_PROG_AR
 AC_PROG_CC
 AC_PROG_LIBTOOL
