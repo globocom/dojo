@@ -1,5 +1,3 @@
-## Process this file with automake to produce Makefile.in
-
 TESTS = check_stack
 check_PROGRAMS = check_stack
 check_stack_CFLAGS = @CHECK_CFLAGS@
