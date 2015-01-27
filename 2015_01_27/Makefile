@@ -1,6 +1,9 @@
-.PHONY: tests
+.PHONY: tests clean
 
 tests: tests/check
+
+clean:
+	@rm -f tests/*.o src/*.o tests/check
 
 src/stack.o: src/stack.c src/stack.h
 	gcc -c $< -o $@

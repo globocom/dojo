@@ -1,6 +1,9 @@
-- Fazer uma pilha
+- Fazer uma pilha de inteiros
     Operações:
         => push
         => pop
         => top
-        => len
+        => length
+    Se sobrar tempo:
+        => reverse
+        => pop no inicio
