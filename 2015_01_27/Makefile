@@ -1,6 +1,7 @@
 .PHONY: tests clean
 
 tests: tests/check
+	@./tests/check
 
 clean:
 	@rm -f tests/*.o src/*.o tests/check
@@ -13,4 +14,3 @@ tests/check_stack.o: tests/check_stack.c
 
 tests/check: src/stack.o tests/check_stack.o
 	gcc $^ -lcheck -o tests/check
-	@./tests/check
