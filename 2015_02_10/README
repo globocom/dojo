@@ -1,0 +1,18 @@
+Enunciado do Problema
+=====================
+
+Dadas uma coleção de sílabas S e uma palavra P, determinar
+se um bebê que conheça apenas as sílabas de S é capaz de
+pronunciar a palavra P.
+
+
+Exemplos
+--------
+
+Sílabas: "ma", "pa"
+Palavra: "mamapapa"
+Bebê pronuncia a palavra: Sim
+
+Sílabas: "ma", "pa"
+Palavra: "baba"
+Bebê pronuncia a palavra: Não
