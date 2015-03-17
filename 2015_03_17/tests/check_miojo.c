@@ -1,5 +1,6 @@
 #include <stdlib.h>
 #include <check.h>
+#include <limits.h>
 #include "../src/miojo.h"
 
 void setup(void)
@@ -64,6 +65,12 @@ START_TEST(test_four_turns_eight)
 }
 END_TEST
 
+START_TEST(test_overflow)
+{
+  ck_assert_int_eq(calc_time(899, INT_MAX/2, INT_MAX-10), -2);
+}
+END_TEST
+
 Suite* stack_suite(void)
 {
     Suite *s;
@@ -81,6 +88,7 @@ Suite* stack_suite(void)
     tcase_add_test(tc_core, test_fail_one);
     tcase_add_test(tc_core, test_three_turns_eight);
     tcase_add_test(tc_core, test_four_turns_eight);
+    tcase_add_test(tc_core, test_overflow);
 
     suite_add_tcase(s, tc_core);
 

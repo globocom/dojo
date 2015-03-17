@@ -1,13 +1,27 @@
 #include <stdlib.h>
 #include <math.h>
+#include <limits.h>
 #include "miojo.h"
+
+
+int safe_mult(x, y)
+{
+  if (x >= INT_MAX/y) {
+    return -2;
+  } else {
+    return x * y;
+  }
+}
 
 int _calc_time(int wanted, int acc_small, int acc_big, int small, int big) {
   if (abs(acc_small - acc_big) == wanted) {
     return acc_small < acc_big ? acc_big : acc_small;
   }
 
-  if (acc_big >= 32767 || acc_small >= 32767) {
+  int mult = safe_mult(big, small);
+  if (mult == -2) {
+    return mult;
+  } else if (acc_big >= mult || acc_small >= mult) {
     return -1;
   }
 

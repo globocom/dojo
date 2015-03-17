@@ -10,7 +10,7 @@ Participantes
 ## ++
 
 - problema interessante
-- solução inicial done!
+- solução total done! (com checagem de overflow)
 
 ## --
 
