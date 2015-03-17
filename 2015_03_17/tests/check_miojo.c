@@ -12,37 +12,55 @@ void teardown(void)
 
 START_TEST(test_no_turns)
 {
-    ck_assert_int_eq(calc_time(4, 7), 7);
+    ck_assert_int_eq(calc_time(3, 4, 7), 7);
 }
 END_TEST
 
 START_TEST(test_one_turn)
 {
-    ck_assert_int_eq(calc_time(5, 7), 10);
+    ck_assert_int_eq(calc_time(3, 5, 7), 10);
 }
 END_TEST
 
 START_TEST(test_two_turns)
 {
-    ck_assert_int_eq(calc_time(10, 9), 30);
+    ck_assert_int_eq(calc_time(3, 10, 9), 30);
 }
 END_TEST
 
 START_TEST(test_fail)
 {
-    ck_assert_int_eq(calc_time(4, 6), -1);
+    ck_assert_int_eq(calc_time(3, 4, 6), -1);
 }
 END_TEST
 
 START_TEST(test_three_turns)
 {
-    ck_assert_int_eq(calc_time(2, 9), 9);
+    ck_assert_int_eq(calc_time(3, 2, 9), 9);
 }
 END_TEST
 
 START_TEST(test_one_turn_again)
 {
-    ck_assert_int_eq(calc_time(3, 9), 3);
+    ck_assert_int_eq(calc_time(3, 3, 9), 3);
+}
+END_TEST
+
+START_TEST(test_fail_one)
+{
+    ck_assert_int_eq(calc_time(1, 3, 9), -1);
+}
+END_TEST
+
+START_TEST(test_three_turns_eight)
+{
+    ck_assert_int_eq(calc_time(8, 5, 7), 15);
+}
+END_TEST
+
+START_TEST(test_four_turns_eight)
+{
+    ck_assert_int_eq(calc_time(1, 5, 7), 15);
 }
 END_TEST
 
@@ -60,6 +78,9 @@ Suite* stack_suite(void)
     tcase_add_test(tc_core, test_fail);
     tcase_add_test(tc_core, test_three_turns);
     tcase_add_test(tc_core, test_one_turn_again);
+    tcase_add_test(tc_core, test_fail_one);
+    tcase_add_test(tc_core, test_three_turns_eight);
+    tcase_add_test(tc_core, test_four_turns_eight);
 
     suite_add_tcase(s, tc_core);
 
