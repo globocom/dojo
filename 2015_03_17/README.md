@@ -2,7 +2,7 @@
 
 Participantes
 
-- Garnier @gganier
+- Garnier @ggarnier
 - Pablo @scorphus
 - Wilson @wpjunior
 - Rafael @aflag

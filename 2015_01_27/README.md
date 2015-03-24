@@ -3,7 +3,7 @@
 Participantes
 
 - Caio Passos @caiobrentano
-- Garnier @gganier
+- Garnier @ggarnier
 - Rafael @aflag
 - Roberto @roberto
 - Pablo @scorphus

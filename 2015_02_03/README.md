@@ -4,7 +4,7 @@ Participantes
 
 - Caio Passos @caiobrentano
 - Célio @celiofonseca
-- Garnier @gganier
+- Garnier @ggarnier
 - Pablo @scorphus
 - Rafael @aflag
 - Wilson @wpjunior

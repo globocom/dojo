@@ -5,7 +5,7 @@ Participantes
 - Thiago Pontes @thiagopnts
 - Felipe de Morais @lipemorais
 - Caio Passos @caiobrentano
-- Garnier @gganier
+- Garnier @ggarnier
 - Moret @moret
 - Rafael @aflag
 - Roberto @roberto

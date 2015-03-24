@@ -3,7 +3,7 @@
 Participantes
 
 - Célio @celiofonseca
-- Garnier @gganier
+- Garnier @ggarnier
 - Pablo @scorphus
 - Rafael @aflag
 - Roberto @roberto
