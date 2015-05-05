@@ -34,7 +34,7 @@ START_TEST(test_one_person)
     GList *result = erdos(&publications, 1);
 
     struct person *p3 = g_list_first(result)->data;
-    ck_assert_str_eq(p3->name, p2.name);
+    ck_assert_str_eq(p3->name, "Rafael");
     ck_assert_int_eq(p3->weight, 1);
 }
 END_TEST
