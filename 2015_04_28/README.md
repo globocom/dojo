@@ -2,17 +2,20 @@
 
 Participantes
 
+- Darlene @darlenedms
 - Garnier @ggarnier
 - Pablo @scorphus
 - Rafael @aflag
 
 ## ++
 
+- chegamos no algoritmo
 - problema interessante
-- começamos a aprender a usar a lista do GLib
+- começamos a aprender a usar a hash table do GLib
 - aprimoramos nosso conhecimento em C
+- usamos malloc
 
 ## --
 
-- nem chegamos no algoritmo
+- não compila
 - se fosse em Python, daria pra terminar

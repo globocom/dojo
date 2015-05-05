@@ -39,6 +39,33 @@ START_TEST(test_one_person)
 }
 END_TEST
 
+START_TEST(test_three_people)
+{
+    struct publication publications[2];
+    struct person p1;
+    p1.name = "Erdos";
+    struct person p2;
+    p2.name = "Rafael";
+    struct person p3;
+    p3.name = "Isaac";
+    publications[0].people = NULL;
+    publications[0].people = g_list_append(publications[0].people, &p2);
+    publications[0].people = g_list_append(publications[0].people, &p1);
+    publications[1].people = NULL;
+    publications[1].people = g_list_append(publications[1].people, &p2);
+    publications[1].people = g_list_append(publications[1].people, &p3);
+    GList *result = erdos(publications, 2);
+
+    struct person *rafael = g_list_nth(result, 0)->data;
+    ck_assert_str_eq(rafael->name, "Rafael");
+    ck_assert_int_eq(rafael->weight, 1);
+
+    struct person *isaac = g_list_nth(result, 1)->data;
+    ck_assert_str_eq(isaac->name, "Isaac");
+    ck_assert_int_eq(isaac->weight, 2);
+}
+END_TEST
+
 Suite* stack_suite(void)
 {
     Suite *s;
@@ -49,6 +76,7 @@ Suite* stack_suite(void)
     tcase_add_checked_fixture(tc_core, setup, teardown);
     tcase_add_test(tc_core, test_must_return_empty_list);
     tcase_add_test(tc_core, test_one_person);
+    tcase_add_test(tc_core, test_three_people);
 
 
     suite_add_tcase(s, tc_core);
