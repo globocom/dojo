@@ -1,0 +1,3 @@
+[2014-05-10 16:23:42] - Abertura da Porta OK
+[2014-05-10 14:23:42] - Abertura da Porta OK
+[2014-05-10 10:23:42] - Abertura da Porta OK
