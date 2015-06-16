@@ -1,0 +1,20 @@
+Participantes
+=============
+
+Chico
+Garnier
+Rafael
+Wilson
+
+:)
+==
+
+- conseguimos fazer dojo de novo :D
+- Wilson aprendendo a usar o Vim
+- Wilson achou o vizinho dele no dojo
+- Linguagem nova (com formato de data escroto)
+
+:(
+==
+
+- formato escroto pra parsear data no Go
