@@ -6,10 +6,10 @@ http://dojopuzzles.com/problemas/exibe/entradas-no-banco/
 Participantes
 =============
 
-Chico
-Garnier
-Rafael
-Wilson
+- Chico
+- Garnier
+- Rafael
+- Wilson
 
 :)
 ==
