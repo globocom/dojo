@@ -1,0 +1,67 @@
+Problema
+========
+
+Panquecas do Juarez
+
+Juarez tem N panquecas de carne de javali e quer servir-se pro lanche. Dispostas
+numa bandeja e numeradas de 0 a N-1, cada i-ésima panqueca tem largura igual a
+i+1 e gostosura G[i].
+
+Juarez, então, escolhe as panquecas que vai comer usando o seguinte processo
+aleatório: começa escolhendo uma panqueca aleatória de todas que ele tem.
+Coloca a escolhida sobre um prato. Esta panqueca é, então, a base da pilha de
+panquecas para o lanche de Juarez.
+
+A partir daí, ele repete o seguinte:
+
+1. Se não há panquecas sobrando, ele para e anota a gostosura do prato!
+2. Escolhe uma panqueca aleatória que ainda não foi escolhida.
+3. Se a largura dessa panqueca é maior que a largura da panqueca no topo da
+   pilha, ele a devolve à bandeja, para e anota a gostosura do prato!
+4. Senão, ele coloca essa panqueca na pilha e volta ao primeiro passo.
+
+G é parâmetro de entrada com N inteiros tais que:
+
+    N ∈ [1, 250] e G = {g | 1 <= g <= 1000 }
+
+O objetivo é descobrir a soma do valor de gostosura de todas as porções de
+panquecas que podem ser servidas.
+
+
+Exemplos
+========
+
+```
+1) G = {1,1,1}
+Gostosura: 1.6666666666666667
+
+2) G = {3,6,10,9,2}
+Gostosura: 9.891666666666667
+
+3) G = {10,9,8,7,6,5,4,3,2,1}
+Gostosura: 10.999999724426809
+
+4) G = {1,2,3,4,5,6,7,8,9,10}
+Gostosura: 7.901100088183421
+
+5) G = {2,7,1,8,2,8,1,8,2,8,4,5,90,4,5,2,3,5,60,2,8,74,7,1}
+Gostosura: 19.368705050402465
+
+6) G = {1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1}
+Gostosura: 1.718281828459045
+```
+
+Participantes
+=============
+
+- ...
+
+:)
+==
+
+- ...
+
+:(
+==
+
+- ...
