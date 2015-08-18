@@ -1,0 +1,25 @@
+Problema
+========
+
+Partida de tênis: http://dojopuzzles.com/problemas/exibe/partida-de-tenis/
+
+Participantes
+=============
+
+
+- Francisco Souza
+- Guilherme Garnier
+- Jayme Nogueira
+- Renan Carvalho
+
+:)
+==
+
+- Refactoring dos testes (table driven)
+- Conseguimos concluir o problema
+- Presença recorrente de estagiários
+
+:(
+==
+
+- Pouca gente
