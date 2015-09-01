@@ -1,0 +1,29 @@
+Problema
+========
+Caixa eletrônico: http://dojopuzzles.com/problemas/exibe/caixa-eletronico/#
+
+Participantes
+=============
+
+
+- Wilson Júnior
+- Emiliano Barbosa
+- Pedro Medeiros
+- Diego Peres
+- Guilherme Vierno
+- Guilherme Garnier
+- Renan Carvalho
+
+:)
+==
+
+- Conseguimos concluir o problema
+- Programar em GO sem um especialista no assunto (@chico -> fss)
+- Raciocinamos juntos (mais divertido que beber cerveja =D)
+- Participantes novos
+
+:(
+==
+
+- Tempo quebrando a cabeça (go ponei)
+- Nano para escrever este arquivo
