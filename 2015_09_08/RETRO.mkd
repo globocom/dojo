@@ -1,0 +1,22 @@
+Problema
+========
+Diamantes: http://dojopuzzles.com/problemas/exibe/diamantes/
+
+Participantes
+=============
+
+- Daniel Filho (Tião)
+- Emiliano Barbosa
+- Renan Carvalho
+
+:)
+==
+- Programar em GO sem ter noção no assunto
+- Infra mínima de criar um arquivo e rodar um teste do zero. Sem ajuda
+
+:(
+==
+
+- Não terminamos!
+- Sala com cheiro de tinta
+- Não conseguimos escrever um "for" com count em Go Lang
