@@ -18,11 +18,6 @@ func (s *Suite) TestDiamanteA(c *check.C) {
 	c.Check(desenho, check.DeepEquals, "A")
 }
 
-// func (s *Suite) TestDiamanteB(c *check.C) {
-// 	desenho := DesenharDiamante("B")
-// 	c.Check(desenho, check.DeepEquals, " A \nB B\n A ")
-// }
-
 func (s *Suite) TestCentroA(c *check.C) {
 	desenho := DesenharCentro("A")
 	c.Check(desenho, check.DeepEquals, "A")
@@ -42,48 +37,18 @@ func (s *Suite) TestCentroC(c *check.C) {
 	c.Check(desenho, check.DeepEquals, "C   C")
 }
 
-// func (s *Suite) TestSacar10(c *check.C){
-// 	valor, _ := Saque(10)
-// 	c.Check(valor,  check.DeepEquals, []int{10})
-// }
-
-// func (s *Suite) TestSacar20(c *check.C){
-// 	valor, _ := Saque(20)
-// 	c.Check(valor,  check.DeepEquals, []int{20})
-// }
-
-// func (s *Suite) TestSacar30(c *check.C){
-// 	valor, _ := Saque(30)
-// 	c.Check(valor,  check.DeepEquals, []int{20, 10})
-// }
-
-// func (s *Suite) TestSacar40(c *check.C){
-// 	valor, _ := Saque(40)
-// 	c.Check(valor,  check.DeepEquals, []int{20, 20})
-// }
-
-// func (s *Suite) TestSacar50(c *check.C){
-// 	valor, _ := Saque(50)
-// 	c.Check(valor,  check.DeepEquals, []int{50})
-// }
-
-// func (s *Suite) TestSacar80(c *check.C){
-// 	valor, _ := Saque(80)
-// 	c.Check(valor,  check.DeepEquals, []int{50, 20, 10})
-// }
-
-// func (s *Suite) TestSacar100(c *check.C){
-// 	valor, _ := Saque(100)
-// 	c.Check(valor,  check.DeepEquals, []int{100})
-// }
-
-// func (s *Suite) TestSacar230(c *check.C){
-// 	valor, _ := Saque(230)
-// 	c.Check(valor,  check.DeepEquals, []int{100, 100, 20, 10})
-// }
-
-// func (s *Suite) TestSacarValorIndisponivel(c *check.C){
-// 	valor, err := Saque(25)
-// 	c.Check(err, check.ErrorMatches, "valor invalido")
-// 	c.Check(valor,  check.DeepEquals, []int{})
-// }
+//1[0]       A
+//2[1]      B B
+//3[3]     C   C
+//4[5]    D     D
+//5[7]   E       E
+//6[9]  F         F
+//7[9] G           G
+func (s *Suite) TestCentroD(c *check.C) {
+	desenho := DesenharCentro("D")
+	c.Check(desenho, check.DeepEquals, "D     D")
+}
+func (s *Suite) TestCentroG(c *check.C) {
+	desenho := DesenharCentro("G")
+	c.Check(desenho, check.DeepEquals, "G         G")
+}
