@@ -1,6 +1,7 @@
 package diamante
 
-var alfabeto = [2]string{"A", "B"}
+var alfabeto = [7]string{"A", "B", "C", "D", "E", "F", "G"}
+var impares = [7]int{0,1,3,5,6,7,9	}
 
 func DesenharDiamante (letra string) (string) {
 	return letra
@@ -11,9 +12,9 @@ func DesenharCentro (letra string) (string) {
 	espacos := ""
 	indice := 0
 
-	for i := 0; i < 2; i++ {
+	for i := 0; i < len(alfabeto); i++ {
 		if alfabeto[i] == letra {
-			indice = i
+			indice = impares[i]
 		}
 	}
 
