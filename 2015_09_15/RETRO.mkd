@@ -1,0 +1,23 @@
+Problema
+========
+Diamantes: http://dojopuzzles.com/problemas/exibe/diamantes/
+
+Participantes
+=============
+
+- Francisco Souza
+- Emiliano Barbosa
+- Renan Carvalho
+- Guilherme Garnier
+- Sérgio Azevedo
+
+:)
+==
+- terminamos
+- fizemos um bom refactoring das funções
+- bons nomes de variáveis (strLetra ftw)
+- divertido
+
+:(
+==
+- unit8
