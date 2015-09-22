@@ -1,4 +1,4 @@
 test:
-	@go test diamante_test.go diamante.go
+	@go test
 run:
 	@go run diamante.go	
