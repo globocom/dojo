@@ -1,0 +1,23 @@
+Problema
+========
+Ano Bissexto: http://dojopuzzles.com/problemas/exibe/ano-bissexto/
+
+Participantes
+=============
+
+- Emiliano Barbosa
+- Renan Carvalho
+
+:)
+==
+
+- Escrevemos testes mais interessantes, testes com tabela de casos
+- Problema que coube no tempo, por pouco
+
+:(
+==
+
+- Teste com tabela nao identifica o caso
+- deepEquals para checar bool
+- coro baixo, garnier/chico fazem falta
+
