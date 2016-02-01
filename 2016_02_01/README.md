@@ -1,6 +1,6 @@
 # Problema
 
-http://dojopuzzles.com/problemas/exibe/calculando-estatisticas-simples/
+https://pt.wikipedia.org/wiki/Crivo_de_Erat%C3%B3stenes
 
 # Participantes
 
