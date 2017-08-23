@@ -1,20 +1,12 @@
 # Dojo 23/08/2017
 
-Participantes
+Problema
+========
 
-- Rafael Fragoso
-- Silas Villon
-- Bárbara Correia
-- Michael Benford
-- Maycon Medeiros
-- Bruno Barbosa
-- Felipe Gimenez
-- Guilherme Garnier
-- Rael Max
-- Thomaz Reis
-- Arthur Silva
+https://pt.wikipedia.org/wiki/Cifra_de_C%C3%A9sar
 
 :)
+==
 
 - Novos participantes!
 - Sala cheia
@@ -22,7 +14,23 @@ Participantes
 - Terminamos e refatoramos o problema
 
 :(
+==
 
 - Sala pequena
 - Faltou um mediador
 - So testamos com cifra = 3
+
+Participantes
+=============
+
+- Arthur Silva
+- Bárbara Correia
+- Bruno Barbosa
+- Felipe Gimenez
+- Guilherme Garnier
+- Maycon Medeiros
+- Michael Benford
+- Rael Max
+- Rafael Fragoso
+- Silas Villon
+- Thomaz Reis
