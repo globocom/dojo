@@ -8,3 +8,4 @@ Lista de sites para buscar problemas para o dojo:
 - http://codegolf.stackexchange.com/
 - https://www.codechef.com/
 - http://rubyquiz.com/
+- https://www.urionlinejudge.com.br/
