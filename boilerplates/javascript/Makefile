@@ -4,4 +4,3 @@ setup:
 
 tests:
 	@yarn test
-
