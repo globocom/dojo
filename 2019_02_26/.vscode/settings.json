@@ -1,0 +1,12 @@
+{
+    "cristiandean.dojotools": {
+		"commands": [
+			{
+				"notMatch": "ignored_file\\.py",
+				"match": ".*\\.js",
+				"cmd": "make tests"
+			}
+		]
+    },
+    "workbench.colorCustomizations": {}
+}
