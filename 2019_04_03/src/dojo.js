@@ -6,27 +6,21 @@ function merge(l1, l2) {
   return expected
 }
 
-function createLinkedList(value, value2, value3) {
-  let expected = {
-    val: value,
-    next: null,
+function createNode(args){
+  if (args.length === 0)
+    return null
+  return expected = {
+    val: args.shift(),
+    next: createNode(args)
   }
+}
 
-  if (value2) {
-    expected.next = {
-      val: value2,
-      next: null,
-    }
-  }
-
-  if (value3) {
-    expected.next.next = {
-      val: value3,
-      next: null,
-    }
-  }
-
+function createLinkedList() {
+  let args = []
+  for (let i = 0; i < arguments.length; i++)
+    args.push(arguments[i])
+  let expected = createNode(args)
   return expected
 }
 
-module.exports = { merge, createLinkedList }
+module.exports = { merge, createLinkedList, createNode }

@@ -7,7 +7,7 @@ describe("Test True", function() {
       val: 1,
       next: null,
     }
-    assert.deepEqual(dojo.createLinkedList(1), expected)
+    assert.deepEqual(dojo.createNode([1]), expected)
   })
   it("should create two nodes", function() {
     let expected = {
@@ -17,7 +17,7 @@ describe("Test True", function() {
         next: null,
       },
     }
-    assert.deepEqual(dojo.createLinkedList(1, 2), expected)
+    assert.deepEqual(dojo.createNode([1, 2]), expected)
   })
   it("should create three nodes", function() {
     let expected = {
@@ -30,9 +30,38 @@ describe("Test True", function() {
         },
       },
     }
+    assert.deepEqual(dojo.createNode([1, 2, 3]), expected)
+  })
+  it("should create a linked list with one node", function() {
+    let expected = {
+      val: 1,
+      next: null,
+    }
+    assert.deepEqual(dojo.createLinkedList(1), expected)
+  })
+  it("should create a linked list with two nodes", function() {
+    let expected = {
+      val: 1,
+      next: {
+        val: 2,
+        next: null,
+      },
+    }
+    assert.deepEqual(dojo.createLinkedList(1, 2), expected)
+  })
+  it("should create a linked link with three nodes", function() {
+    let expected = {
+      val: 1,
+      next: {
+        val: 2,
+        next: {
+          val: 3,
+          next: null,
+        },
+      },
+    }
     assert.deepEqual(dojo.createLinkedList(1, 2, 3), expected)
   })
-
   it("should merge two linked lists", function() {
     let list1 = {
       val: 1,
