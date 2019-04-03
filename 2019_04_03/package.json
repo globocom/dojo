@@ -1,0 +1,22 @@
+{
+  "name": "dojo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "prettier": {
+    "printWidth": 80,
+    "singleQuote": false,
+    "trailingComma": "es5",
+    "bracketSpacing": true,
+    "semi": false
+  },
+  "author": "Globo.com",
+  "license": "ISC"
+}
