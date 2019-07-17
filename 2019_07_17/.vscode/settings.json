@@ -1,0 +1,17 @@
+{
+    "cristiandean.dojotools": {
+        "commands": [
+            {
+                "match": ".*\\.py",
+                "cmd": "make test"
+            }
+        ]
+    },
+    "workbench.colorCustomizations": {
+        "statusBar.background": "#029400",
+        "statusBar.noFolderBackground": "#029400",
+        "statusBar.debuggingBackground": "#029400",
+        "activityBar.background": "#014400"
+    },
+    "python.pythonPath": "/Users/bruno.barbosa/.pyenv/versions/3.7.0/bin/python"
+}
