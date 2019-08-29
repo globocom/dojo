@@ -17,8 +17,7 @@
 Sugestões
 =========
 
-- Tentar padronizar variáveis
-- Disponibilizar linguagens
+- Informar as linguagens que serão utilizadas antes do Dojo
 - Fazer mais dojos na UFRJ
 
 Problema
