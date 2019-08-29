@@ -19,7 +19,7 @@ Sugestões
 
 - Tentar padronizar variáveis
 - Disponibilizar linguagens
-- Fazer mais dojos aqui
+- Fazer mais dojos na UFRJ
 
 Problema
 ========
