@@ -1,0 +1,27 @@
+{
+  "cristiandean.dojotools": {
+    "commands": [
+      {
+        "match": ".*\\.py",
+        "cmd": "make test"
+      }
+    ]
+  },
+  "workbench.colorCustomizations": {
+    "statusBar.noFolderBackground": "#940000",
+    "statusBar.debuggingBackground": "#940000",
+    "activityBar.background": "#5d0000",
+    "activityBar.foreground": "#e7e7e7",
+    "activityBar.inactiveForeground": "#e7e7e799",
+    "activityBarBadge.background": "#6060ff",
+    "activityBarBadge.foreground": "#e7e7e7",
+    "titleBar.activeBackground": "#001100",
+    "titleBar.inactiveBackground": "#00110099",
+    "titleBar.activeForeground": "#e7e7e7",
+    "titleBar.inactiveForeground": "#e7e7e799",
+    "statusBar.background": "#940000",
+    "statusBarItem.hoverBackground": "#004400",
+    "statusBar.foreground": "#e7e7e7"
+  },
+  "peacock.color": "#001100"
+}
