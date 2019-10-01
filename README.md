@@ -5,6 +5,7 @@ INICIO: 08/02/2011
 ## Gerando um subprojeto dojo
 
 Linguagens:
+
 - go
 - python
 - java
@@ -19,16 +20,17 @@ Irá gerar uma pasta com a data atual com um projeto dentro para realizar TDD
 - `make dojo-java`
 - `make dojo-js`
 
-
 **Exemplo**
+
 ```console
 dojo@master:~$ make dojo-python
 bash generate.sh "python"
 
-Linguagem escolhida python
-Criando o diretório...
-Copiando arquivos para a pasta...
+Language selected: python
+Creating directory...
+Copying files to the directory ./2020_01_01 ...
 
+Boilerplate successfully created: 2020_01_01
 
    _       ___ ______ __  _____     ___    ___   ____  ___       __
   | |     /  _|      |  |/ ___/    |   \  /   \ |    |/   \     |  |
