@@ -9,3 +9,7 @@ Lista de sites para buscar problemas para o dojo:
 - https://www.codechef.com/
 - http://rubyquiz.com/
 - https://www.urionlinejudge.com.br/
+- https://www.hackerrank.com/
+- https://leetcode.com/
+- https://www.codechef.com/
+- https://codeforces.com
