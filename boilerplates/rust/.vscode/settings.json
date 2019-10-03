@@ -2,7 +2,7 @@
   "cristiandean.dojotools": {
     "commands": [
       {
-        "match": ".*\\.py",
+        "match": ".*\\.rs",
         "cmd": "make test"
       }
     ]
@@ -12,5 +12,5 @@
     "statusBar.noFolderBackground": "#029400",
     "statusBar.debuggingBackground": "#029400",
     "activityBar.background": "#014400"
-  }
+}
 }
