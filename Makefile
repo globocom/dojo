@@ -2,6 +2,7 @@ GO_LANG="go"
 PYTHON="python"
 JAVA="java"
 JAVASCRIPT="javascript"
+RUST="rust"
 
 .PHONY: dojo-go
 dojo-go:
@@ -18,3 +19,7 @@ dojo-java:
 .PHONY: dojo-js
 dojo-js:
 	@. ./boilerplates/generate.sh ${JAVASCRIPT}
+
+.PHONY: dojo-rust
+dojo-rust:
+	@. ./boilerplates/generate.sh ${RUST}
