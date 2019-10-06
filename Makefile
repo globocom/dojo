@@ -3,6 +3,7 @@ PYTHON="python"
 JAVA="java"
 JAVASCRIPT="javascript"
 RUST="rust"
+PHP="php"
 
 .PHONY: dojo-go
 dojo-go:
@@ -23,3 +24,7 @@ dojo-js:
 .PHONY: dojo-rust
 dojo-rust:
 	@. ./boilerplates/generate.sh ${RUST}
+
+.PHONY: dojo-php
+dojo-php:
+	@. ./boilerplates/generate.sh ${PHP}
