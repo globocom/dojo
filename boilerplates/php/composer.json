@@ -1,0 +1,25 @@
+{
+    "name": "globocom/dojo",
+    "description": "Boilerplate de testes para PHP",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dojo Globo.com",
+            "homepage": "https://github.com/globocom/dojo"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^6"
+    },
+    "autoload": {
+        "psr-4": {
+           "App\\": "src"
+        }
+    },
+    "autoload-dev" : {
+        "psr-4" : {
+            "Tests\\" : "tests"
+        }
+    }
+}
