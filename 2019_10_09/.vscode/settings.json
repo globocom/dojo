@@ -1,0 +1,17 @@
+{
+  "cristiandean.dojotools": {
+    "commands": [
+      {
+        "match": ".*\\.py",
+        "cmd": "make test"
+      }
+    ]
+  },
+  "python.pythonPath": "/Users/ingrid.pacheco/.pyenv/versions/2.7.0/bin/python",
+  "workbench.colorCustomizations": {
+    "statusBar.background": "#029400",
+    "statusBar.noFolderBackground": "#029400",
+    "statusBar.debuggingBackground": "#029400",
+    "activityBar.background": "#014400"
+  }
+}
