@@ -1,5 +1,7 @@
 #!/bin/bash
 
+PROGRAM_NAME="$(basename $0)"
+
 GO_LANG="go"
 PYTHON="python"
 JAVA="java"
@@ -13,19 +15,35 @@ GREEN='\033[0;32m'
 RED='\033[0;31m' 
 NOCOLOR='\033[0m' 
 
-echo ""
+display_usage() {
+    echo "Usage: ${PROGRAM_NAME} [OPTIONS] LANGUAGE"
+    echo ""
+    echo "  Copies the boilerplate from the given language into a new"
+    echo "  directory named as the current date."
+    echo ""
+    echo "Options:"
+    echo "  -h, --help    Show this message and exit."
+    echo ""
+    echo "Language:"
+    echo "  Use one of the languages below!"
+    echo -e "  ${GREEN}${ALLOWED_LANGUAGES[*]}${NOCOLOR}"
+    exit "${1:-1}"
+}
+
+[ -z "$1" ] && display_usage
+
+([ "-h" == "$1" ] || [ "--help" == "$1" ]) && display_usage 0
 
 if [[ ! " ${ALLOWED_LANGUAGES[*]} " == *" $1 "* ]]; then
     echo "Invalid language!!"
     echo "Use one of the languages below!"
-    echo "${GREEN}${ALLOWED_LANGUAGES[*]}${NOCOLOR}"
-    exit 0
+    echo -e "${GREEN}${ALLOWED_LANGUAGES[*]}${NOCOLOR}"
+    exit 1
 fi
-
 
 # Linguagem escolhida
 language=$1
-echo "Language selected: ${language}"
+echo "Selected language: ${language}"
 echo ""
 
 # Retorno: Uma data no formato yyyy-mm-dd
@@ -34,16 +52,15 @@ currentDate=`date +%F`
 # Substituindo o caracter '-' por '_'
 dojoDir="${currentDate//-/_}"
 
-
 echo "Creating directory..."
 echo ""
 
 errorDir="$(mkdir $dojoDir 2>&1)"
 
 if [ "$errorDir" != "" ]; then
-    echo "${RED}Erro: ${errorDir}${NOCOLOR}"
+    echo -e "${RED}Error: ${errorDir}${NOCOLOR}"
     echo ""
-    exit 0
+    exit 1
 fi
 
 echo "Copying the files to the directory ./${dojoDir} ..."
@@ -52,11 +69,11 @@ echo ""
 erroCp=$(cp -R boilerplates/$1/. $dojoDir 2>&1)
 
 if [ "$erroCp" != "" ]; then
-    echo "${RED}Erro: ${erroCp}${NOCOLOR}"
+    echo -e "${RED}Error: ${erroCp}${NOCOLOR}"
     echo ""
-    exit 0
+    exit 1
 fi
 
-echo "Boilerplate successfully created: $GREEN$dojoDir$NOCOLOR"
+echo -e "Boilerplate successfully created: ${GREEN}${dojoDir}${NOCOLOR}"
 
 cat TITLE
