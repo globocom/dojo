@@ -42,3 +42,7 @@ Boilerplate successfully created: 2020_01_01
 
 
 ```
+
+## License
+
+Dojo is licensed under the [MIT license](LICENSE).
