@@ -1,6 +1,6 @@
-Repositório que armazena os Dojos acontecidos na Globo.com
+# Dojos
 
-INICIO: 08/02/2011
+Repositório que armazena os Dojos acontecidos na Globo.com. Os registros foram armazenados a partir do dia 8 de Outubro de 2011.
 
 ## Gerando um subprojeto dojo
 
@@ -43,6 +43,6 @@ Boilerplate successfully created: 2020_01_01
 
 ```
 
-## License
+## Licença
 
 Dojo is licensed under the [MIT license](LICENSE).
