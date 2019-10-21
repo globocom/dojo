@@ -1,6 +1,6 @@
 Repositório que armazena os Dojos acontecidos na Globo.com
 
-INICIO: 08/02/2011
+INÍCIO: 08/02/2011
 
 ## Gerando um subprojeto dojo
 
