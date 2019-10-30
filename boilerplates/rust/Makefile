@@ -3,3 +3,6 @@ setup:
 
 test:
 	@cargo test --lib
+
+publish-dojo:
+	@bash ../publish.sh

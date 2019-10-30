@@ -5,3 +5,6 @@ setup:
 test:
 	@go test
 
+publish-dojo:
+	@bash ../publish.sh
+
