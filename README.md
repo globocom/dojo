@@ -7,18 +7,24 @@ INICIO: 08/02/2011
 Linguagens:
 
 - go
-- python
 - java
 - javascript
+- php
+- python
+- ruby
+- rust
 
 ### Comandos para gerar um subprojeto dojo
 
 Irá gerar uma pasta com a data atual com um projeto dentro para realizar TDD
 
-- `make dojo-python`
 - `make dojo-go`
 - `make dojo-java`
 - `make dojo-js`
+- `make dojo-php`
+- `make dojo-python`
+- `make dojo-ruby`
+- `make dojo-rust`
 
 **Exemplo**
 
