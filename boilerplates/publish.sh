@@ -17,27 +17,29 @@ function yesno {
 
 yesno "This will publish current branch code to master branch, continue?" || exit 0
 
-# Retorno: Uma data no formato dd/mm/yyyy
+# Return: Data in the format dd/mm/yyy
 currentDate=`date +%d/%m/%Y`
 main_branch="master"
 
 current_branch=$(git rev-parse --abbrev-ref HEAD)
 
+# Checking if current branch is different than master
 if [ $current_branch != $main_branch ]; then
     echo "You should be at master. Please, move this branch's code to master. 😞"
     exit 1
 fi
 
-#Atualizando o repositório
+# Updating repository
 echo "Updating repository"
 git fetch --all
 git pull origin $main_branch
 
-#Commitando as mudanças feitas
+# Commiting the changes made
 echo "Commiting the day's dojo files"
 git add .
 git commit -m "Dojo do dia ${currentDate}"
 
+# Pushing the changes to master
 git push origin $main_branch
 echo "Your commits were pushed sucessfully ⛅"
 
