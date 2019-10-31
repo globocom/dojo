@@ -4,3 +4,6 @@ setup:
 
 test:
 	@./mvnw test
+
+publish-dojo:
+	@bash ../publish.sh

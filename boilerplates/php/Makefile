@@ -5,3 +5,6 @@ setup:
 
 test:
 	./vendor/bin/phpunit
+
+publish-dojo:
+	@bash ../publish.sh

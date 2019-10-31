@@ -6,3 +6,6 @@ setup:
 
 test:
 	@yarn test
+
+publish-dojo:
+	@bash ../publish.sh
