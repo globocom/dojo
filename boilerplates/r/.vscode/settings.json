@@ -1,0 +1,10 @@
+{
+    "cristiandean.dojotools": {
+      "commands": [
+        {
+          "match": ".*\\.r",
+          "cmd": "make test"
+        }
+      ]
+    }
+}

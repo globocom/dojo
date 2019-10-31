@@ -13,6 +13,7 @@ Linguagens:
 - python
 - ruby
 - rust
+- r
 
 ### Comandos para gerar um subprojeto dojo
 
@@ -25,6 +26,7 @@ Irá gerar uma pasta com a data atual com um projeto dentro para realizar TDD
 - `make dojo-python`
 - `make dojo-ruby`
 - `make dojo-rust`
+- `make dojo-r`
 
 **Exemplo**
 
