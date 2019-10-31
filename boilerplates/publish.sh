@@ -32,7 +32,7 @@ fi
 # Updating repository
 echo "Updating repository"
 git fetch --all
-git pull origin $main_branch
+git pull --rebase origin $main_branch
 
 # Commiting the changes made
 echo "Commiting the day's dojo files"
