@@ -5,6 +5,7 @@ JAVASCRIPT="javascript"
 RUST="rust"
 PHP="php"
 RUBY="ruby"
+R="r"
 
 .PHONY: dojo-go
 dojo-go:
@@ -33,3 +34,7 @@ dojo-php:
 .PHONY: dojo-ruby
 dojo-ruby:
 	@. ./boilerplates/generate.sh ${RUBY}
+
+.PHONY: dojo-r
+dojo-r:
+	@. ./boilerplates/generate.sh ${R}
