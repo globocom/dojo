@@ -16,7 +16,7 @@ Dado dois pontos cartesianos para formar um quadrado. Um terceiro ponto é passa
 - Ingrid Pacheco
 - Lourenço Sander
 - Lucas Germano
-- Mateus Ildefonso
+- @matecomp
 - Stephanie Cardoso
 - Thiago Pisani
 - Thomaz Reis

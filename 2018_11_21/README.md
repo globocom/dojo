@@ -33,5 +33,5 @@ Participantes
 - Danilo Santana
 - Lourenço Sander
 - Marcelo Pereira
-- Mateus Ildefonso
+- @matecomp
 - Mateus Pontes

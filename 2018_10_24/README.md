@@ -61,6 +61,6 @@ Participantes
 - Cristian Dean
 - Ingrid Pacheco
 - Lucas Germano
-- Mateus Ildefonso
+- @matecomp
 - Thomaz dos Reis
 - Jonathan Alcantara

@@ -32,4 +32,4 @@ Participantes
 - Gabriel Valensuela
 - Ingrid Pacheco
 - Lourenço Sander
-- Mateus Ildefonso
+- @matecomp

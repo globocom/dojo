@@ -53,6 +53,6 @@ Participantes
 - Thomaz dos Reis
 - Cristian Dean
 - Lucas Germano
-- Mateus Ildefonso
+- @matecomp
 - Allan Assis
 - Lourenço Sander

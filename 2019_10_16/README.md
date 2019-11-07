@@ -27,7 +27,7 @@ Participantes
 - @arthurcgc
 - Bruna Paracat
 - @cristiandean
-- Mateus Ildefonso
+- @matecomp
 - @brunobbbs
 - @danilogila
 - @IcaroNascimento
@@ -37,4 +37,4 @@ Participantes
 Ganhador do sorteio
 ===================
 
-Mateus Ildefonso
+@matecomp

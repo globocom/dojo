@@ -23,7 +23,7 @@ Participantes
 =============
 
 
-- Mateus Ildefonso
+- @matecomp
 - Bruna Paracat
 - @brunobbbs
 - @IcaroNascimento

@@ -37,5 +37,5 @@ Participantes
 - Ingrid Pacheco
 - Leticia Freire
 - Lucas Germano
-- Mateus Ildefonso
+- @matecomp
 - Rafael Santos

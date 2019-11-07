@@ -32,7 +32,7 @@ Participantes
 - Ingrid Pacheco
 - Cristian Dean
 - Patrick Porto
-- Mateus Ildefonso
+- @matecomp
 - Bárbara Frost
 - Bruno Couto
 - Pedro Lemos
