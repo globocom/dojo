@@ -22,9 +22,10 @@ Problema
 Participantes
 =============
 
-- Ingrid Pacheco
-- Bruno Barbosa
-- Ícaro Nascimento
+
 - Mateus Ildefonso
-- Sami Safatli
 - Bruna Paracat
+- @brunobbbs
+- @IcaroNascimento
+- @ingridqpacheco
+- @samisafatli

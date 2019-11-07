@@ -17,10 +17,10 @@
 
 # Participantes
 
-- Ingrid Pacheco
-- Sami Safatli
 - Mateus Ildefonso
-- Icaro Nascimento
-- Cristian Dean
-- Danilo Santana
 - Bruna Paracat
+- @brunobbbs
+- @danilogila
+- @IcaroNascimento
+- @ingridqpacheco
+- @samisafatli

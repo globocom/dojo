@@ -23,16 +23,16 @@ Problema
 Participantes
 =============
 
-- Allan Assis
-- Arthur Coelho
+- @allanassis
+- @arthurcgc
 - Bruna Paracat
-- Bruno Barbosa
-- Cristian Dean
-- Danilo Santana
-- Icaro Nascimento
-- Ingrid Pacheco
+- @cristiandean
 - Mateus Ildefonso
-- Sami Safatli
+- @brunobbbs
+- @danilogila
+- @IcaroNascimento
+- @ingridqpacheco
+- @samisafatli
 
 Ganhador do sorteio
 ===================

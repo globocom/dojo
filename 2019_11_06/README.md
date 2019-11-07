@@ -23,8 +23,8 @@ Problema
 Participantes
 =============
 
-- Bruno Barbosa
-- Danilo Santana
-- Ícaro Nascimento
-- Ingrid Pacheco
-- Sami Safatli
+- @brunobbbs
+- @danilogila
+- @IcaroNascimento
+- @ingridqpacheco
+- @samisafatli

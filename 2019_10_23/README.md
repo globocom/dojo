@@ -22,8 +22,9 @@ Problema
 Participantes
 =============
 
-- Ingrid Pacheco
-- Allan Assis
-- Sami Safatli
-- Ícaro Nascimento
-- Danilo Santana
+- @allanassis
+- @brunobbbs
+- @danilogila
+- @IcaroNascimento
+- @ingridqpacheco
+- @samisafatli
