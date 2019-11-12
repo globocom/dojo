@@ -5,4 +5,4 @@ test:
 	@cargo test --lib
 
 publish-dojo:
-	@bash ../publish.sh
+	@bash ../boilerplates/publish.sh

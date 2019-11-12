@@ -6,5 +6,5 @@ test:
 	@go test
 
 publish-dojo:
-	@bash ../publish.sh
+	@bash ../boilerplates/publish.sh
 

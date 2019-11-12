@@ -6,4 +6,4 @@ test:
 	@./mvnw test
 
 publish-dojo:
-	@bash ../publish.sh
+	@bash ../boilerplates/publish.sh

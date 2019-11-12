@@ -7,4 +7,4 @@ test:
 	./vendor/bin/phpunit
 
 publish-dojo:
-	@bash ../publish.sh
+	@bash ../boilerplates/publish.sh

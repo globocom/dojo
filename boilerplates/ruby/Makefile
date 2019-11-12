@@ -3,4 +3,4 @@ test:
 	@ruby test_dojo.rb
 
 publish-dojo:
-	@bash ../publish.sh
+	@bash ../boilerplates/publish.sh
