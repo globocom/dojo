@@ -1,17 +1,19 @@
-problema: https://www.hackerrank.com/challenges/re-sub-regex-substitution/problem
-sugestoes:
+problem: https://www.hackerrank.com/challenges/re-sub-regex-substitution/problem
+language: python
+date: 2019-10-23
+suggestions:
   - Cada pessoa chamar um amigo
-participantes:
+participants:
   - @allanassis
   - @brunobbbs
   - @danilogila
   - @IcaroNascimento
   - @ingridpacheco
   - @samisafatli
-positivo:
+positive:
   - Boa rotatividade
   - Finalizamos o problema
   - Poucas conversas paralelas
   - Código bem feito
-negativo:
+negative:
   - Poucas pessoas

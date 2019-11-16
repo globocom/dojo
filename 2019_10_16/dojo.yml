@@ -1,7 +1,9 @@
-problema: https://www.hackerrank.com/challenges/build-a-string/problem
-sugestoes:
+problem: https://www.hackerrank.com/challenges/build-a-string/problem
+language: python
+date: 2019-10-16
+suggestions:
   - Discutir os proximos passos antes de começar o problema
-participantes:
+participants:
   - @allanassis
   - @arthurcgc
   - Bruna Paracat
@@ -12,10 +14,10 @@ participantes:
   - @IcaroNascimento
   - @ingridpacheco
   - @samisafatli
-positivo:
+positive:
   - Arthur veio e participou
   - Mateus Ildefonso
-negativo:
+negative:
   - nem todos codaram
   - muita discussao paralela
   - não avançamos muito na solução do problema

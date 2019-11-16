@@ -1,17 +1,19 @@
-problema: https://leetcode.com/problems/coin-change/
-sugestoes:
+problem: https://leetcode.com/problems/coin-change/
+language: python
+date: 2019-11-06
+suggestions:
   - Cada pessoa chamar um amigo
-participantes:
+participants:
   - @brunobbbs
   - @danilogila
   - @IcaroNascimento
   - @ingridpacheco
   - @samisafatli
-positivo:
+positive:
   - Discussão sobre a solução
   - Problema legal
   - Nos organizamos bem
-negativo:
+negative:
   - Faltam participantes novos
   - Demorou para começar
   - Problema com adaptador

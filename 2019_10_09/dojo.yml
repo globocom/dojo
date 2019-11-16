@@ -1,20 +1,22 @@
-problema: https://www.hackerrank.com/challenges/lilys-homework/problem
-sugestoes:
-participantes:
+problem: https://www.hackerrank.com/challenges/lilys-homework/problem
+language: python
+date: 2019-10-09
+suggestions:
+participants:
   - @matecomp
   - Bruna Paracat
   - @brunobbbs
   - @IcaroNascimento
   - @ingridpacheco
   - @samisafatli
-positivo:
+positive:
   - Nova integrante ;)))) (Bruna) Jogou O fino *.*
   - Problema legal
   - Finalizamos o problema
   - Discutimos sobre a PEP8
   - Mateus is back! (or not) Veio mesmo tendo talk pra dar hoje e chuva
   - Boa rotatividade
-negativo:
+negative:
   - nem todos codaram
   - muita discussao paralela
   - não avançamos muito na solução do problema

@@ -1,16 +1,18 @@
-problema: https://www.hackerrank.com/challenges/red-knights-shortest-path/problem
-sugestoes:
-participantes:
+problem: https://www.hackerrank.com/challenges/red-knights-shortest-path/problem
+language: javascript
+date: 2019-11-13
+suggestions:
+participants:
   - @IcaroNascimento
   - @cristiandean
   - @allanassis
   - @ingridpacheco
   - @samisafatli
-positivo:
+positive:
   - Primeiro dojo remoto - funcionou :)
   - Problema legal
   - Programação orientada a objetos
-negativo:
+negative:
   - Não fizemos baby steps
   - A pessoa remota não conseguiu ver se os testes falharam nem o timer
   - Atraso

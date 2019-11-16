@@ -1,7 +1,9 @@
-problema: https://www.hackerrank.com/challenges/picking-numbers/problem
-sugestoes:
+problem: https://www.hackerrank.com/challenges/picking-numbers/problem
+language: javascript
+date: 2019-10-30
+suggestions:
   - Cada pessoa chamar um amigo
-participantes:
+participants:
   - @matecomp
   - Bruna Paracat
   - @brunobbbs
@@ -9,10 +11,10 @@ participantes:
   - @IcaroNascimento
   - @ingridpacheco
   - @samisafatli
-positivo:
+positive:
   - Bruna amou Javascript
   - Boa rotação
   - Bem baby-steps
   - Problema legal
-negativo:
+negative:
   - Conversas paralelas
