@@ -11,7 +11,7 @@ PHP="php"
 RUBY="ruby"
 R="r"
 
-ALLOWED_LANGUAGES=($GO_LANG $PYTHON $JAVA $JAVASCRIPT $RUST $PHP $RUBY $R)
+ALLOWED_LANGUAGES="$GO_LANG $PYTHON $JAVA $JAVASCRIPT $RUST $PHP $RUBY $R"
 
 GREEN='\033[0;32m' 
 RED='\033[0;31m' 
@@ -28,7 +28,7 @@ display_usage() {
     echo ""
     echo "Language:"
     echo "  Use one of the languages below!"
-    echo -e "  ${GREEN}${ALLOWED_LANGUAGES[*]}${NOCOLOR}"
+    echo -e "  ${GREEN}${ALLOWED_LANGUAGES}${NOCOLOR}"
     exit "${1:-1}"
 }
 
@@ -36,10 +36,10 @@ display_usage() {
 
 ([ "-h" == "$1" ] || [ "--help" == "$1" ]) && display_usage 0
 
-if [[ ! " ${ALLOWED_LANGUAGES[*]} " == *" $1 "* ]]; then
+if [[ ! " ${ALLOWED_LANGUAGES} " == *" $1 "* ]]; then
     echo "Invalid language!!"
     echo "Use one of the languages below!"
-    echo -e "${GREEN}${ALLOWED_LANGUAGES[*]}${NOCOLOR}"
+    echo -e "${GREEN}${ALLOWED_LANGUAGES}${NOCOLOR}"
     exit 1
 fi
 

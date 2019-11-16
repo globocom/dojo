@@ -9,32 +9,32 @@ R="r"
 
 .PHONY: dojo-go
 dojo-go:
-	@. ./boilerplates/generate.sh ${GO_LANG}
+	@./boilerplates/generate.sh ${GO_LANG}
 
 .PHONY: dojo-python
 dojo-python:
-	@. ./boilerplates/generate.sh ${PYTHON}
+	@./boilerplates/generate.sh ${PYTHON}
 
 .PHONY: dojo-java
 dojo-java:
-	@. ./boilerplates/generate.sh ${JAVA}
+	@./boilerplates/generate.sh ${JAVA}
 
 .PHONY: dojo-js
 dojo-js:
-	@. ./boilerplates/generate.sh ${JAVASCRIPT}
+	@./boilerplates/generate.sh ${JAVASCRIPT}
 
 .PHONY: dojo-rust
 dojo-rust:
-	@. ./boilerplates/generate.sh ${RUST}
+	@./boilerplates/generate.sh ${RUST}
 
 .PHONY: dojo-php
 dojo-php:
-	@. ./boilerplates/generate.sh ${PHP}
+	@./boilerplates/generate.sh ${PHP}
 
 .PHONY: dojo-ruby
 dojo-ruby:
-	@. ./boilerplates/generate.sh ${RUBY}
+	@./boilerplates/generate.sh ${RUBY}
 
 .PHONY: dojo-r
 dojo-r:
-	@. ./boilerplates/generate.sh ${R}
+	@./boilerplates/generate.sh ${R}
