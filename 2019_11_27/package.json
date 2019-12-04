@@ -1,0 +1,15 @@
+{
+  "name": "dojo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Globo.com",
+  "license": "ISC"
+}
