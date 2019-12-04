@@ -1,0 +1,18 @@
+problem: https://leetcode.com/problems/decode-ways/
+language: Javascript
+date: 2019-12-04
+suggestions:
+participants:
+  - @ingridpacheco
+  - @cristiandean
+  - @danilogila
+  - @edualb
+  - @patrickporto
+positive:
+  - Todos participaram
+  - Participante novo
+  - Problema legal
+negative:
+  - Conversas paralelas
+  - Demoramos a escolher o problema
+  - Nao terminamos o problema
