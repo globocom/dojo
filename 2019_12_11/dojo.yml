@@ -1,0 +1,18 @@
+problem: https://leetcode.com/problems/regular-expression-matching/
+language: go
+date: 2019-12-11
+suggestions:
+participants:
+  - @IcaroNascimento
+  - @cristiandean
+  - @edualb
+  - @ingridpacheco
+  - @danilogila
+  - @matecomp
+positive:
+  - Encontramos o problema rápido
+  - Aprendemos um pouco sobre go
+  - Percebemos a complexidade do regex :(
+negative:
+  - Problema e linguagem desconfortáveis
+  - Pessoas que estavam vindo não estão vindo mais
