@@ -1,0 +1,25 @@
+problem: https://leetcode.com/problems/valid-parentheses/
+language: python
+date: 2020-04-01
+suggestions:
+  - Incrementar a forma de anotações durante ao Dojo
+  - Anotar os tópicos que aprendemos no Dojo do dia
+participants:
+  - @IcaroNascimento
+  - @samisafatli
+  - @elenaraujo
+  - @tiagoduartedf
+  - @juancalheiros
+  - @ingridpacheco
+  - @carloshmartins
+  - @imbrito
+  - @allanassis
+positive:
+  - Novos participantes (+ conhecimento)
+  - Novos aprendizados (estrutura)
+  - Problema legal
+  - Conseguimos aproveitar a lógica (independente de sintaxe)
+  
+negative:
+  - Nem todos conseguiram programar
+  - Ser mais objetivo
