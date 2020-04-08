@@ -1,0 +1,34 @@
+problem: http://dojopuzzles.com/problemas/exibe/lendo-um-cheque/
+language: python
+date: 2020-04-08
+suggestions:
+  - Explicar mais o passo-a-passo
+participants:
+  - @IcaroNascimento
+  - @samisafatli
+  - @elenaraujo
+  - @tiagoduartedf
+  - @juancalheiros
+  - @ingridpacheco
+  - @carloshmartins
+  - @imbrito
+  - @allanassis
+  - @ramonmachado
+positive:
+  - Começamos na hora
+  - Todos conseguiram programar
+  - Tivemos um integrante novo
+  - Maior entrosamento
+  - Conseguimos fazer mais de uma rodada
+  - Possibilidade de aprender bastante coisas do Python
+  - Abordamos estruturas muito importantes (introduzir solução e falar estrutura)
+  - Explicação das ideias e estruturas
+negative:
+  - As vezes ficava muito rápido e não facilitava a compreensão
+
+topics:
+  structures:
+    - dictionary
+  functions:
+    - split
+    - lower
