@@ -1,0 +1,21 @@
+problem: https://www.hackerrank.com/challenges/save-the-prisoner/problem
+language: go
+date: 2020-04-15
+suggestions:
+  - Pensar em maneiras de aprimorar o Dojo
+  - Em linguagens novas, pegar exemplo de função para pegar melhor a sintaxe (melhorar boilerplate)
+participants:
+  - @IcaroNascimento
+  - @samisafatli
+  - @juancalheiros
+  - @ingridpacheco
+  - @carloshmartins
+  - @allanassis
+  - @matecomp
+positive:
+  - GO!
+  - Mateus voltou :))))))
+  - Salvamos o prisioneiro (finalizamos o problema)
+  - Bem divertido
+negative:
+  - Código burocrático
