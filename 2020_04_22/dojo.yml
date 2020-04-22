@@ -1,0 +1,27 @@
+problem: https://www.hackerrank.com/challenges/diagonal-difference/problem
+language: go
+date: 2020-04-22
+suggestions:
+  - Se quiser focar mais na linguagem pega um problema fácil, mas se quiser pegar um problema difícil, pegar uma linguagem que as pessoas conheçam mais
+  - Não menosprezar os probleminhas!
+  - JAVA semana que vem :S
+participants:
+  - @IcaroNascimento
+  - @samisafatli
+  - @juancalheiros
+  - @ingridpacheco
+  - @matecomp
+  - @elenaraujo
+  - @pedrochamberlain
+positive:
+  - GO!
+  - Participante novo (Pedro)
+  - Aprendemos várias estruturas em Go
+  - Problema mais simples pra aprender a sintaxe do Go
+negative:
+  - Demoramos por sintaxe
+  - Conversas paralelas
+structures:
+  functions:
+    - math.Mod
+    - len
