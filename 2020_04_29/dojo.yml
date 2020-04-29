@@ -1,0 +1,35 @@
+problem: http://dojopuzzles.com/problemas/exibe/um-mundo-pequeno/
+language: javascript
+date: 2020-04-29
+suggestions:
+  - Melhorar o local para pegar o problema
+  - Escolher problemas com exemplos de input output
+
+participants:
+  - @matecomp
+  - @samisafatli
+  - @pedrochamberlain
+  - @imbrito
+  - @elenaraujo
+  - @juancalheiros
+  - @allanassis
+  - Bruna Paracat
+
+positive:
+  - Muitas pessoas
+  - Todos participaram
+  - Linguagem legal
+  - Novos conceitos
+  - Terminamos o problema
+  - Complexidade legal
+
+negative:
+  - Pulamos em certo momento *babysteps*
+  - Problema sem exemplos de input output
+
+structures:
+  functions:
+    - Array.sort
+    - Array.slice
+    - Array.map
+    - Math.sqrt

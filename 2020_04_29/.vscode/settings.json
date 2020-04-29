@@ -1,0 +1,11 @@
+{
+  "cristiandean.dojotools": {
+    "commands": [
+      {
+        "match": ".*\\.js",
+        "cmd": "make test"
+      }
+    ]
+  },
+  "workbench.colorCustomizations": {}
+}
