@@ -1,0 +1,22 @@
+problem: https://www.hackerrank.com/challenges/encryption/problem
+language: python
+date: 2020-05-06
+suggestions:
+participants:
+  - @IcaroNascimento
+  - @samisafatli
+  - @juancalheiros
+  - @ingridpacheco
+positive:
+  - Muita rotação
+  - Problema legal
+  - Usamos funções novas do python (ceil e floor)
+  - Bem baby-steps
+negative:
+  - Começar a pensar no problema/linguagem mais cedo
+structures:
+  functions:
+    - math.sqrt
+    - math.floor
+    - math.ceil
+    - replace
