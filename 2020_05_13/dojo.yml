@@ -1,0 +1,19 @@
+problem: https://www.hackerrank.com/challenges/python-sort-sort/problem
+language: python
+date: 2020-05-13
+suggestions:
+  - https://www.hackerrank.com/challenges/non-divisible-subset/problem
+participants:
+  - @samisafatli
+  - @juancalheiros
+  - @ingridpacheco
+  - @allanassis
+  - @elenaraujo
+positive:
+  - Elen voltou \o/
+  - Começamos na hora certa
+  - Conseguimos fechar uma parte do problema
+negative:
+  - Não conseguimos implementar baby-steps
+  - Não tivemos participantes novos
+  - Problema não é legal
