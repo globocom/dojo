@@ -1,0 +1,21 @@
+problem: https://leetcode.com/problems/height-checker/
+language: go
+date: 2020-06-10
+suggestions:
+  - Happy hour do Dojo (Elen convidada)
+participants:
+  - @samisafatli
+  - @juancalheiros
+  - @ingridpacheco
+  - @matecomp
+  - @allanassis
+  - @elenaraujo
+  - @tiagoduartedf
+  - @icaronascimento
+positive:
+  - Bastante gente
+  - O teste passou :)
+  - Saímos da zona de conforto
+  - Todos codaram
+negative:
+  - Demoramos para começar o Dojo
