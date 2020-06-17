@@ -1,0 +1,22 @@
+problem: https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/
+language: go
+date: 2020-06-17
+suggestions:
+  - Happy hour do Dojo (Elen convidada)
+participants:
+  - @samisafatli
+  - @juancalheiros
+  - @ingridpacheco
+  - @matecomp
+  - @tiagoduartedf
+  - @icaronascimento
+  - @nvmoreira
+positive:
+  - Começamos cedo (escolhemos o problema e linguagem cedo)
+  - Introduzimos o conceito de lista encadeada
+  - Concluímos o problema
+  - Problema legal
+  - Fizemos baby-steps
+  - Refatoramos bem
+negative:
+  - GO :(
