@@ -1,0 +1,19 @@
+problem: http://dojopuzzles.com/problemas/exibe/caixa-eletronico/
+ language: python
+ date: 2020-06-24
+ suggestions: Happy dojo quando acabar a quarentena
+ participants:
+    - @allanassis
+    - @juancalheiros
+    - @ingridpacheco
+    - @matecomp
+    - @elenaraujo
+
+ positive:
+    - Problema legal
+    - Fizemos baby-steps
+    - Concluimos
+    - Linguagem boa
+
+ negative:
+    - Não estamos conseguindo trazer pessoas novas para o dojo

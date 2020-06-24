@@ -1,0 +1,12 @@
+{
+  "cristiandean.dojotools": {
+    "commands": [
+      {
+        "match": ".*\\.py",
+        "cmd": "make test"
+      }
+    ]
+  },
+  "python.pythonPath": "usr/local/bin/python3",
+  "workbench.colorCustomizations": {}
+}
