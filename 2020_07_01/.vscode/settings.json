@@ -1,0 +1,31 @@
+{
+  "cristiandean.dojotools": {
+    "commands": [
+      {
+        "match": ".*\\.js",
+        "cmd": "make test"
+      }
+    ]
+  },
+  "workbench.colorCustomizations": {
+    "statusBar.background": "#001100",
+    "statusBar.noFolderBackground": "#029400",
+    "statusBar.debuggingBackground": "#029400",
+    "activityBar.background": "#004400",
+    "activityBar.activeBackground": "#004400",
+    "activityBar.activeBorder": "#6060ff",
+    "activityBar.foreground": "#e7e7e7",
+    "activityBar.inactiveForeground": "#e7e7e799",
+    "activityBarBadge.background": "#6060ff",
+    "activityBarBadge.foreground": "#e7e7e7",
+    "statusBar.border": "#001100",
+    "statusBar.foreground": "#e7e7e7",
+    "statusBarItem.hoverBackground": "#004400",
+    "titleBar.activeBackground": "#001100",
+    "titleBar.activeForeground": "#e7e7e7",
+    "titleBar.border": "#001100",
+    "titleBar.inactiveBackground": "#00110099",
+    "titleBar.inactiveForeground": "#e7e7e799"
+  },
+  "peacock.color": "#001100"
+}
