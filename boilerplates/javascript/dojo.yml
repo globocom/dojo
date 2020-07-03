@@ -1,0 +1,12 @@
+problem: 
+ language: javascript
+ date: #yyyy-mm-dd
+ suggestions: 
+ participants:
+    - #@username
+
+ positive:
+    - 
+
+ negative:
+    - 
