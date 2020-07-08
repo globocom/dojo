@@ -1,0 +1,23 @@
+problem: https://leetcode.com/problems/jewels-and-stones/
+ language: python
+ date: 2020-07-08
+ suggestions: Happy dojo quando acabar a quarentena
+ participants:
+    - @allanassis
+    - @juancalheiros
+    - @ingridpacheco
+    - @matecomp
+    - @elenaraujo
+    - @samisafatli
+    - @icaronascimento
+
+ positive:
+    - Problema legal
+    - Testamos a ferramenta nova :)
+    - Concluimos
+    - List comprehension
+    - Estamos mais comprometidos com o Dojo
+
+ negative:
+    - Ferramenta não funcionou :(
+    - Não tem gente nova :(
