@@ -1,0 +1,19 @@
+problem: https://leetcode.com/problems/find-k-pairs-with-smallest-sums/
+ language: go
+ date: 2020-08-26
+ suggestions: 
+ participants:
+    - @ingridpacheco
+    - @juancalheiros
+    - @allanassis
+    - @samisafatli
+    - @nvmoreira
+    - @elenaraujo
+
+ positive:
+    - Problema legal
+    - Estruturas em GO
+    - Gente nova
+
+ negative:
+    - Falta de animação
