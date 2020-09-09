@@ -1,0 +1,18 @@
+problem: https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/
+ language: python
+ date: 2020-09-09
+ suggestions: 
+ participants:
+    - @ingridpacheco
+    - @elenaraujo
+    - @allanassis
+    - @samisafatli
+    - @juancalheiros
+
+ positive:
+    - Relembramos funções
+    - Problema legal
+
+ negative:
+    - Demoramos a começar
+    - Ninguém novo
