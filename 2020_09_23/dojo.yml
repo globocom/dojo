@@ -1,0 +1,13 @@
+problem: 
+ language: python
+ date: #yyyy-mm-dd
+ suggestions: 
+ participants:
+    - #@username
+
+ positive:
+    - Problema legal
+    - Discutimos bastante sobre o problema
+
+ negative:
+    - 
