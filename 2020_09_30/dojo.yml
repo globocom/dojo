@@ -1,0 +1,19 @@
+problem: 
+ language: python
+ date: 2020-09-30
+ suggestions: 
+ participants:
+    - @elenaraujo
+    - @juancalheiros
+    - @matecomp
+    - @nvmoreira
+    - @tiagoduartedf  
+    - @allanassis
+
+ positive:
+    - Problema legal
+    - Conseguimos terminar o problema
+
+ negative:
+    - Recomeçamos o código 2 vezes por não ter discutido o problema adequadamente
+    - 
