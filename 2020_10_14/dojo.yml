@@ -1,0 +1,27 @@
+problem: https://leetcode.com/problems/split-a-string-in-balanced-strings/
+ language: python
+ date: 2020-10-14
+ suggestions: 
+ participants:
+    - @ingridpacheco
+    - @samisafatli
+    - @elenaraujo
+    - @juancalheiros
+    - @danilogila
+    - @priscilaarruda
+    - @tiagoduartedf
+    - @nvmoreira
+    - @vierno
+    - @lucassargeir
+
+ positive:
+    - Integrantes novos \o/
+    - Bastante gente :)
+    - Problema legal
+    - Conseguimos refatorar
+    - Aprendemos como colocar declaração de tipo no Python
+    - Aprendemos for no Python
+    - Finalizamos o problema
+
+ negative:
+    - Nem todos codaram 
