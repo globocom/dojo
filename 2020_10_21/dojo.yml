@@ -1,0 +1,22 @@
+problem: https://leetcode.com/problems/count-number-of-teams/
+ language: python
+ date: 2020-10-21
+ suggestions: 
+ participants:
+    - ingridpacheco
+    - samisafatli
+    - juancalheiros
+    - lucassargeir
+    - laraferigatto
+    - elenaraujo
+    - matecomp
+
+ positive:
+    - Integrante nova :)
+    - Problema legal
+    - Visita do Mateus :)
+    - Aprendemos o for com range (dá pra passar um terceiro param)
+    - Terminamos o problema
+
+ negative:
+   - Não conseguimos depurar
