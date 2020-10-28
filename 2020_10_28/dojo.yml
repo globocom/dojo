@@ -1,0 +1,18 @@
+problem: https://leetcode.com/problems/sort-the-matrix-diagonally/
+ language: python
+ date: 2020-10-28
+ suggestions: 
+ participants:
+   - @samisafatli
+   - @allanassis
+   - @tiagoduartedf
+   - @lucassargeir
+   - @laraferigatto
+
+ positive:
+   - Lara e Lucas estão frequentes <3 <3
+   - Problema interessante
+   - Nova estruturas de dados Tuplas
+   - 
+ negative:
+   - Input do teste muito ruim para criar o teste
