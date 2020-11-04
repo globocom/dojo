@@ -1,0 +1,20 @@
+problem: Arte Valiosa - SBC 2019
+ language: javascript
+ date: 2020-11-04
+ suggestions:
+   - https://codeforces.com/
+ participants:
+    - @ingridpacheco
+    - @allanassis
+    - @samisafatli
+    - @juancalheiros
+    - @lucassargeir
+    - @tiagoduartedf
+    - @laraferigatto
+
+ positive:
+    - Problema legal
+    - Bastante gente
+
+ negative:
+    - Demoramos para construir as matrizes (embolou os testes)
