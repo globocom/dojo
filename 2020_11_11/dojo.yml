@@ -1,0 +1,24 @@
+problem: 
+ language: javascript
+ date: 2020_11_11
+ suggestions: 
+ participants:
+    - @samisafatli
+    - @matecomp
+    - @ingridpacheco
+    - @elenaraujo
+    - @juancalheiros
+    - @lucassargeir
+    - @laraferigatto
+
+ positive:
+    - Reduce <3 
+    - Problema legal <3
+    - Todo mundo codou <3
+    - Aprendemos uma nova palavra <3
+    - Command + D (Elen ficou feliz <3)
+    - Allan de férias \o/
+
+ negative:
+   - Setting ta bem ruim =(
+   - Começamos tarde
