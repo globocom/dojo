@@ -1,0 +1,22 @@
+problem:
+  language: python
+  date: 2020-11-25
+  suggestions:
+   - Fazer um pseudocódigo que todos consigam entender o problema em sua totalidade antes de realmente partir para a solução final
+  participants:
+    - @samisafatli
+    - @tiagoduartedf
+    - @lucassargeir
+    - @laraferigatto
+    - @tcarreira
+    - @juancalheiros
+
+  positive:
+    - Problema Legal!!!
+    - Aplicou a sugestão da semana passada, trazendo um problema novo <3
+
+  negative:
+    - Demoramos para definir uma solução
+    - Perdemos muito tempo para fazer um teste simples
+
+   

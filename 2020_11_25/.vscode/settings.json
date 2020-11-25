@@ -1,0 +1,16 @@
+{
+  "cristiandean.dojotools": {
+    "commands": [
+      {
+        "match": ".*\\.py",
+        "cmd": "make test"
+      }
+    ]
+  },
+  "workbench.colorCustomizations": {
+    "statusBar.background": "#940000",
+    "statusBar.noFolderBackground": "#940000",
+    "statusBar.debuggingBackground": "#940000",
+    "activityBar.background": "#5d0000"
+  }0000000094005d00
+}
