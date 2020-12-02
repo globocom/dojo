@@ -1,0 +1,25 @@
+problem: https://leetcode.com/problems/last-stone-weight/
+ language: python
+ date: 2020-12-02
+ suggestions:
+    - Juan traz o problema semana que vem
+ participants:
+    - @juancalheiros
+    - @samisafatli
+    - @ingridpacheco
+    - @laraferigato
+    - @lucassargeir
+    - @matecomp
+
+ positive:
+    - Bastante gente
+    - Mateus veio
+    - Problema legal
+    - Pessoal está vindo ao Dojo
+    - Trazer o problema antes tá ajudando muito
+
+ negative:
+    - Teams não aceita gente de fora
+    - Teams corta as falas das pessoas
+    - Trocamos a solução no meio do problema
+    - Pensar em soluções mais simples
