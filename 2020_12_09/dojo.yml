@@ -1,0 +1,16 @@
+problem: 
+ language: python
+ date: 2020-12-09
+ suggestions: 
+ participants:
+    - @lucassargeir
+    - @laraferigatto
+    - @tiagoduartedf
+    - @tcarreira
+
+ positive:
+    - estruturou mais a solução - pseudocodigo
+    - problema legal
+
+ negative:
+    - começamos a codar um pouco tarde
