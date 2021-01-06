@@ -1,0 +1,25 @@
+problem: 
+ language: python
+ date: 2021-01-06
+ suggestions: 
+ participants:
+    - @matecomp 
+    - @laraferigatto
+    - @tcarreira
+    - @LucasSargeir
+    - @elenarujo
+    - @tiagoduartedf
+    - @brunapcs
+    - @allanassis
+    - @ighorrocha
+
+ positive:
+    - Tiago ligou a câmera
+    - Problema legal
+    - Bastante gente
+    - Avançamos bastante no Problema
+    - Duas pessoas novas
+
+ negative:
+    - Tabs e espaços do Python
+    
