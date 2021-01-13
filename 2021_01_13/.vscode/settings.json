@@ -1,0 +1,16 @@
+{
+  "cristiandean.dojotools": {
+    "commands": [
+      {
+        "match": ".*\\.js",
+        "cmd": "make test"
+      }
+    ]
+  },
+  "workbench.colorCustomizations": {
+    "statusBar.background": "#029400",
+    "statusBar.noFolderBackground": "#029400",
+    "statusBar.debuggingBackground": "#029400",
+    "activityBar.background": "#014400"
+  }
+}

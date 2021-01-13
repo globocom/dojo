@@ -1,0 +1,16 @@
+problem: 
+ language: javascript
+ date: 2021-01-12
+ suggestions: 
+ participants:
+    - @laraferigatto
+    - @juancalheiros
+    - @allanassis
+
+ positive:
+    - Todo mundo programou bem
+    - Aprendemos que javascript ordena de forma lexicografica :(
+    - Implementamos o bubblesort
+
+ negative:
+    - Poucas pessoas hoje :(
