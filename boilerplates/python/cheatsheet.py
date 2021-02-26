@@ -12,13 +12,13 @@ x = """
 ############################################################################
 # Types
 ############################################################################
-t_null = None
 t_bool = True
 t_str = "abc"
 t_int = 42
 t_float = 1234.56  # or 1.23456e3
 # t_struct # python does not have structs. Use classes/objects (or list/dicts)
 # pointers: objects and lists are always passed as pointers
+t_null = None
 
 t_list = [1, "2", True]  # there are no arrays. Elements can be anything
 t_dict = {  # newline for readability
