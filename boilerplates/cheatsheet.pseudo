@@ -17,11 +17,12 @@ def main() {
     ############################################################################
     # Types
     ############################################################################
-    t_null  =  # how nulls are represented?
-    t_bool  =  # how booleans are represented?
-    t_str   =  # how strings are represented?
-    t_int   =  # how integers are represented?
-    t_float =  # how floats are represented?
+    t_null   =  # how nulls are represented?
+    t_bool   =  # how booleans are represented?
+    t_str    =  # how strings are represented?
+    t_int    =  # how integers are represented?
+    t_float  =  # how floats are represented?
+    t_struct =  # how to declare and access a structure (or equivalent)
 
     t_array   =  # how to declare arrays
     t_hashmap =  # how to declare hashmaps (key: value)
