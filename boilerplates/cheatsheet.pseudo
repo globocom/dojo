@@ -118,7 +118,7 @@ def main() {
     ############################################################################
     # Regex usage
     ############################################################################
-    match_list =    # how to find regex matches groups
+    match_list =    # "ab3 c22 dd5"  ->  regex("[a-z]+")  ->  ['ab', 'c', 'dd']
     is_true =       # how to find if regex matches pattern
-    group_match =   # "<123>abcd</123>" -> regex(">([a-z]+)<") -> "abc"
+    group_match =   # "<123>abcd</123>"  ->  regex(">([a-z]+)<")  ->  "abc"
 }
