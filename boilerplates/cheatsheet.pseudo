@@ -31,12 +31,12 @@ def main() {
     ############################################################################
     # Maths & Basics
     ############################################################################
-    t_int++                  # how to increment by one
-    powered      = 2^8       # how to implement power operation
-    mod_division = 13 % 5    # how to mod division (reminder)
-    floored = 42.8 -> 42     # how to floor()
-    ceiled  = 41.2 -> 42     # how to ceil()
-    rounded = 2.255 -> 2.56  # how to round with 2 decimal places 
+    t_int++                       # how to increment by one
+    powered      = 2^8            # how to implement power operation
+    mod_division = 13 % 5         # how to mod division (reminder)
+    floored      = 42.8 -> 42     # how to floor()
+    ceiled       = 41.2 -> 42     # how to ceil()
+    rounded      = 2.255 -> 2.56  # how to round with 2 decimal places 
 
 
     ############################################################################
@@ -56,13 +56,13 @@ def main() {
     ############################################################################
     c = "concatenate" + " strings"  # if possible,with other types
     formatted_string = "${var}?"    # how to format strings
-    all_lowercase =                 # convert string to all lowercase
-    all_uppercase =                 # convert string to all uppercase
-    trimmed_string =                # remove prefix and suffixed spaces
-    split_array =                   # split "a, b, c" into ["a","b","c"]
-    join_array =                    # convert array to string (reverse split)
+    all_lowercase    =              # convert string to all lowercase
+    all_uppercase    =              # convert string to all uppercase
+    trimmed_string   =              # remove prefix and suffixed spaces
+    split_array      =              # split "a, b, c" into ["a","b","c"]
+    join_array       =              # convert array to string (reverse split)
     length_of_string =              # count chars (2-byte "ç" should count 1)
-    replaced_string =               # how to replace on string
+    replaced_string  =              # how to replace on string
 
     
     ############################################################################
@@ -98,21 +98,21 @@ def main() {
     ############################################################################
     # Arrays/Lists/Hashmaps/Dictionary manipulation
     ############################################################################
-    first_element = t_array[0]       # does it start on 0? 
-    last_element = t_array[-1]       # negative index exists?
-    first_and_second = t_array[0:2]  # sub-array syntax? from:to(exclusive?)
-    element_index = t_array.find(?)  # find index of element? what if absent?
+    first_element    = t_array[0]       # does it start on 0? 
+    last_element     = t_array[-1]      # negative index exists?
+    first_and_second = t_array[0:2]     # sub-array syntax? from:to(exclusive?)
+    element_index    = t_array.find(?)  # find index of element? what if absent?
 
     t_list.append(...)  # how to append elements to array/list
-    popped_string =     # how to remove/pop elements from array/list
+    popped_string  =    # how to remove/pop elements from array/list
     length_of_list =    # how to get the length of array/list
 
     t_hashmap["new_key"] = "new_value"       # insert into hashmaps
     remove_a_key = t_hashmap.pop("new key")  # remove from hashmaps
 
-    is_true = "2" in t_list            # check if element exists in array/list
-    is_false = "v" in t_hashmap        # check if key exists in hasmaps
-    is_true = "v" in t_hashmap.values  # check if value exists in hashmaps
+    is_true  = "2" in t_list            # check if element exists in array/list
+    is_false = "v" in t_hashmap         # check if key exists in hasmaps
+    is_true  = "v" in t_hashmap.values  # check if value exists in hashmaps
 
 
     ############################################################################
