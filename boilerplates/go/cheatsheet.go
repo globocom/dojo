@@ -140,6 +140,9 @@ func main() {
 			break
 		}
 	} // just do it yourself (as everything else in Go)
+	if v, found := tMap["hello"]; found { // finding keys in Maps
+		fmt.Println(v)
+	}
 
 	tSlice = append(tSlice, 42)     // appending elements to a Slice
 	tSlice = tSlice[:len(tSlice)-1] // reslice the Slice after getting last item ==> emulate pop()
