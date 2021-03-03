@@ -125,7 +125,8 @@ func main() {
 	}
 
 	////////////////////////////////////////////////////////////////////////////
-	// Arrays/Slices/Maps manipulation
+	// Arrays/Slices/Maps manipulation. Slices in Go are tricky (and performant)
+	// Check https://ueokande.github.io/go-slice-tricks/ for more advanced tips
 	////////////////////////////////////////////////////////////////////////////
 	firstElement := tSlice[0]
 	lastElement := tSlice[len(tSlice)-1]            // no negative index
