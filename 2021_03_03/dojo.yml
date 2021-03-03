@@ -1,0 +1,15 @@
+problem: https://www.hackerrank.com/challenges/queens-attack-2/problem
+ language: go
+ date: 2021-03-03
+ suggestions: 
+ participants:
+    - @laraferigatto
+    - @tcarreira
+    - @juancalheiros
+
+ positive:
+    - conseguimos estrutar bem a nossa solução
+
+ negative:
+    - não codamos :(
+    - poucas pessoas vieram ao dojo
