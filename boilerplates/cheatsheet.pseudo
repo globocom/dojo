@@ -1,0 +1,124 @@
+# This is pseudo code only. Every cheatsheet should follow this structure
+# Comment when you find appropriate.
+# Try to follow language conventions
+
+def main() {
+    ############################################################################
+    # Language idiosyncratics
+    ############################################################################
+    idiosyncratics = """multiline string (or equivalent) with lang specifics
+    * is language strong typed?
+    * indentation matters? What standard (if exists)? <tabs>? <spaces>?
+    * what is the standard naming? camelCaseVariables, snake_case_variables?
+    * other important notes for this language
+    """
+
+
+    ############################################################################
+    # Types
+    ############################################################################
+    t_bool   =  # how booleans are represented?
+    t_str    =  # how strings are represented?
+    t_int    =  # how integers are represented?
+    t_float  =  # how floats are represented?
+    t_struct =  # how to declare and access a structure (or equivalent)
+    t_null   =  # how nulls are represented?
+
+    t_array   =  # how to declare arrays
+    t_hashmap =  # how to declare hashmaps (key: value)
+
+
+    ############################################################################
+    # Maths & Basics
+    ############################################################################
+    t_int++                       # how to increment by one
+    powered      = 2^8            # how to implement power operation
+    mod_division = 13 % 5         # how to mod division (reminder)
+    floored      = 42.8 -> 42     # how to floor()
+    ceiled       = 41.2 -> 42     # how to ceil()
+    rounded      = 2.255 -> 2.56  # how to round with 2 decimal places 
+
+
+    ############################################################################
+    # Functions (probably you must declare the function before main. That's ok)
+    ############################################################################
+    def f_function(int arg1, bool arg2, str arg3="Default") -> (str, bool, int){
+        return (arg3, arg2, arg1)
+    }
+
+    f_function(2, True)             # can omit arguments (defaults)?
+    arg3, arg2, arg1 = f_funcion()  # can return multiple values?
+    values_list = f_function()      # can capture all values on single variable?
+
+
+    ############################################################################
+    # String manipulation
+    ############################################################################
+    c = "concatenate" + " strings"  # if possible,with other types
+    formatted_string = "${var}?"    # how to format strings
+    all_lowercase    =              # convert string to all lowercase
+    all_uppercase    =              # convert string to all uppercase
+    trimmed_string   =              # remove prefix and suffixed spaces
+    split_array      =              # split "a, b, c" into ["a","b","c"]
+    join_array       =              # convert array to string (reverse split)
+    length_of_string =              # count chars (2-byte "ç" should count 1)
+    replaced_string  =              # how to replace on string
+
+    
+    ############################################################################
+    # Conditionals
+    ############################################################################
+    if (conditions) {
+        print("complete <if ifelse else> with examples")
+    } elif (conditions) {
+        print("operators: ==, !=, >, >=, <, <=")
+    } else {
+        printf("string with no newline")
+        printf("\n") # try to show how to print without newline
+    }
+
+
+    ############################################################################
+    # Loops (break/continue apply???)
+    ############################################################################
+    while (1) {                     # show a while loop
+        print("Infinite loops are like this (until break or return)")
+        break
+    }
+
+    for i=0; i<5; i++ {             # show a for loop
+        printf("last printed digit is 4: %d", i)
+    }
+
+    for element in range(t_array) {  # how to iterate a string/array/hashmaps
+        print(f"iterate all elements from an array: {element}")
+    }
+
+
+    ############################################################################
+    # Arrays/Lists/Hashmaps/Dictionary manipulation
+    ############################################################################
+    first_element    = t_array[0]       # does it start on 0? 
+    last_element     = t_array[-1]      # negative index exists?
+    first_and_second = t_array[0:2]     # sub-array syntax? from:to(exclusive?)
+    element_index    = t_array.find(?)  # find index of element? what if absent?
+
+    t_list.append(...)  # how to append elements to array/list
+    popped_string  =    # how to remove/pop elements from array/list
+    length_of_list =    # how to get the length of array/list
+
+    t_hashmap["new_key"] = "new_value"       # insert into hashmaps
+    remove_a_key = t_hashmap.pop("new key")  # remove from hashmaps
+
+    is_true  = "2" in t_list            # check if element exists in array/list
+    is_false = "v" in t_hashmap         # check if key exists in hasmaps
+    is_true  = "v" in t_hashmap.values  # check if value exists in hashmaps
+
+
+    ############################################################################
+    # Regex usage
+    ############################################################################
+    match_list =    # "ab3 c22 dd5"  ->  regex("[a-z]+")  ->  ['ab', 'c', 'dd']
+    is_true =       # how to find if regex matches pattern
+    group_match =   # "<123>abcd</123>"  ->  regex(">([a-z]+)<")  ->  "abc"
+}
