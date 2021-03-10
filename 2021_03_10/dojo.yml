@@ -1,0 +1,26 @@
+problem: https://www.urionlinejudge.com.br/judge/pt/problems/view/2221
+ language: python
+ date: 2021-03-10
+ suggestions: 
+ participants:
+    - @ingridqpacheco
+    - @elenaraujo
+    - @laraferigatto
+    - @juancalheiros
+    - @tcarreira
+    - @ighorrocha
+    - @samisafatli
+
+ positive:
+    - Terminamos o problema
+    - Todo mundo codou
+    - Problema legal
+    - Pra galera iniciante é um ótimo problema :)
+    - Tivemos mais pessoas no Dojo \o/
+    - Trocamos para Python
+
+ negative:
+    - Repl.it não divide a tela
+    - Problema ao rodar testes
+    - Não tratamos as entradas :/
+    - Não conseguimos fazer o setup de GO no Repl.it
