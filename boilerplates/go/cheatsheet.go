@@ -171,16 +171,4 @@ func main() {
 		modDivision, floored, ceiled, roundedStr, rounded, newInt, c, formattedString,
 		stringLengthBytes, stringLength, tPointer, firstElement, lastElement,
 		firstAndSecond, elementIndex, tSlice, lengthOfSlice)
-
-	directions := [][]int{
-		[]int{0, 1}, 
-		[]int{1, 1}, 
-		[]int{1, 0}, 
-		[]int{1, -1},
-		 []int{0, -1}, 
-		 []int{-1, -1},
-		  []int{-1, 0},
-		   []int{-1, 1}
-		}
-
 }
