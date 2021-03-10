@@ -2,3 +2,6 @@
 *.swp
 node_modules
 !.vscode
+
+*/cheatsheet.*
+!boilerplates/cheatsheet.pseudo
