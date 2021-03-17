@@ -1,0 +1,20 @@
+problem: https://www.urionlinejudge.com.br/judge/pt/problems/view/2136
+ language: python
+ date: 2021-03-17
+ suggestions:
+    - Processar a entrada antes do problema
+    - Dojo deve continuar como forma de aprendizado de técnicas de TDD, baby steps...
+ participants:
+    - @ingridpacheco
+    - @juancalheiros
+    - @laraferigatto
+    - @tcarreira
+
+ positive:
+    - Foi um bom exercício (quase finalizamos)
+    - Todos codaram
+    - Tivemos pessoas novas (mas tiveram que sair)
+    - Acabamos na hora certa
+
+ negative:
+    - Passamos raiva no gitpod (vamos usar o liveshare)
