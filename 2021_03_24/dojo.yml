@@ -1,0 +1,19 @@
+problem: 
+ language: javascript
+ date: 2021_03_24
+ suggestions: 
+ participants:
+    - tiagocarreira
+    - ingridpacheco
+    - laraferigatto
+    - juancalheiros
+    - samisafatli
+
+ positive:
+    - Fluxo do dojo foi dinâmico
+    - Problema legal! <3 
+    - Finalizamos o problema
+
+ negative:
+    - Começamos tarde
+    - Tivesmo problemas com o live share
