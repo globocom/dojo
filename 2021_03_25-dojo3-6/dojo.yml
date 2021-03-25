@@ -1,0 +1,22 @@
+problem: 
+ language: python
+ date: 2021-03-25
+ suggestions: 
+ participants:
+    - @tcarreira
+    - @scorphus
+    - @brunobbbs
+    - @LucasSargeir
+    - @carneiroDotDev
+    - @rodrigobaguiar
+
+ positive:
+    - contacto com outros devs
+    - contacto com python (quem programou não tinha experiência com a linguagem)
+    - experiência de sair fora da zona de conforto 
+    - programar junto com outros devs
+    - contacto com TDD
+    - novos praticantes do Dojo
+ 
+ negative:
+    - 

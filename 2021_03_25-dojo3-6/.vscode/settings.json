@@ -1,0 +1,25 @@
+{
+  "cristiandean.dojotools": {
+    "commands": [
+      {
+        "match": ".*\\.py",
+        "cmd": "make test"
+      }
+    ]
+  },
+  "workbench.colorCustomizations": {
+    "statusBar.background": "#940000",
+    "statusBar.noFolderBackground": "#940000",
+    "statusBar.debuggingBackground": "#940000",
+    "activityBar.background": "#5d0000"
+  },
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    ".vscode": true,
+    "__pycache__": true
+  }
+}
