@@ -1,0 +1,20 @@
+problem:
+  language: python
+  date: 2021-04-07
+  suggestions:
+  participants:
+    - "@laraferigatto"
+    - "@tcarreira"
+    - "@juancalheiros"
+    - "@ingridpacheco"
+    - "@meyer1994"
+    - "@samisafatli"
+
+  positive:
+    - gente nova no dojo
+    - bom problema
+    - todo o mundo codou
+
+  negative:
+    - não conseguimos usar o liveshare
+    - code colab tem projeto que expira no final de uma semana
