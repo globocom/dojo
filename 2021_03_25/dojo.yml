@@ -1,0 +1,17 @@
+problem: https://www.urionlinejudge.com.br/judge/pt/problems/view/2221
+ language: python
+ date: 25/03/2021
+ suggestions: 
+ participants:
+    - AliceTrinta
+    - josevictorMt
+    - danielpacara
+
+ positive:
+    - aprendemos bastante sobre a importancia dos testes
+    - primeira experiência em codar em grupos
+    - primeiro contato com o TDD
+
+ negative:
+    - live share nos deixou na mão
+    - mais tempo para codarem 
