@@ -1,0 +1,19 @@
+problem: 
+ language: python
+ date: 2021-05-05
+ participants:
+    - @samisafatli
+    - @laraferigatto
+    - @tcarreira
+
+ positive:
+    - terminámos o problema, rápido e eficaz
+    - problema fácil de entender
+    - solução ótima
+    - todos codamos
+
+ negative:
+    - pouca gente
+
+ suggestions: 
+    - ter um plano de qual o problema a resolver antes do dojo
