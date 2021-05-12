@@ -1,0 +1,19 @@
+problem: https://www.urionlinejudge.com.br/judge/pt/problems/view/1169
+ language: python
+ date: 2021-05-12
+ suggestions: 
+ participants:
+    - @ingridpacheco
+    - @juancalheiros
+    - @tcarreira
+    - @laraferigatto
+
+ positive:
+    - Aprendemos sobre decorator
+    - Conseguimos testar diversas soluções em relação a performance
+    - Conversamos bastante sobre possíveis soluções (uma delas deslocava o bit)
+    - Terminamos o problema \o/
+
+ negative:
+    - Não fizemos teste (mas não era a intenção)
+    - Faltam pessoas novas
