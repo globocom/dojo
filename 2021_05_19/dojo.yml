@@ -1,0 +1,19 @@
+problem: 
+ language: python
+ date: 2021-05-19
+ suggestions: 
+ participants:
+    - @laraferigatto
+    - @meyer1994
+    - @tcarreira
+    - @matecomp
+
+ positive:
+    - Fomos rapido
+    - Acabamos
+    - Ildefonso veio!!!
+    - Todos codamos
+
+ negative:
+    - Facil demais
+    
