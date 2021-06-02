@@ -1,0 +1,17 @@
+problem: https://leetcode.com/problems/interleaving-string/
+   language: python
+   date: 2021-06-02
+   participants:
+      - @tcarreira
+      - @meyer1994
+      - @ingridpacheco
+      - @matecomp
+      - @laraferigatto
+      - @elenaraujo
+   positive:
+      - terminamos um problema bem bacana
+      - fizemos recursão
+
+   negative:
+      - o live dojo não funciona bem :'(
+      - Mateus não teve acesso ao live dojo :(
