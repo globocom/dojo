@@ -76,6 +76,9 @@ if [ "$erroCp" != "" ]; then
     exit 1
 fi
 
+# set current date inside dojo.yml
+sed -i "s@date: #yyyy-mm-dd@date: ${currentDate}@" "$dojoDir/dojo.yml"
+
 echo -e "Boilerplate successfully created: ${GREEN}${dojoDir}${NOCOLOR}"
 
 cat TITLE
