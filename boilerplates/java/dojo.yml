@@ -1,12 +1,13 @@
-problem: 
- language: java
- date: #yyyy-mm-dd
- suggestions: 
- participants:
-    - #@username
+problem: #url for problem
+language: java
+date: #yyyy-mm-dd
+participants:
+   - #@username
+suggestions:
+   - 
 
- positive:
-    - 
+positive:
+   - 
 
- negative:
-    - 
+negative:
+   - 
