@@ -1,0 +1,18 @@
+problem:
+language: python
+date: 2021-06-30
+suggestions:
+participants:
+   - @tcarreira
+   - @laraferigatto
+   - @neustren
+   - @ingridpacheco
+
+positive:
+   - Linked Lists
+   - aprendemos a modificar o __str__
+   - codamos todos
+   - novos participantes
+
+negative:
+   -
