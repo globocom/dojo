@@ -1,0 +1,10 @@
+{
+  "cristiandean.dojotools": {
+    "commands": [
+      {
+        "match": ".*\\.py",
+        "cmd": "make test"
+      }
+    ]
+  }
+}
