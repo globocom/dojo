@@ -1,0 +1,16 @@
+problem: https://leetcode.com/problems/integer-to-roman/
+language: python
+date: 2021-08-11
+suggestions: 
+participants:
+   - @tcarreira
+   - @laraferigatto
+   - @Leonardo-S95
+
+positive:
+   - mais gente
+   - terminamos
+
+negative:
+   - terminamos depois da hora
+   - poucas pessoas
