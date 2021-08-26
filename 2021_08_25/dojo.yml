@@ -1,0 +1,15 @@
+problem: Bubble Sort
+language: javascript
+date: 2021-08-25
+participants:
+   - @tcarreira
+   - @nicolassantos
+
+positive:
+   - bom algoritmo para implementar
+   - terminamos o algoritmo
+   - seguimos um bom TDD
+   - trocamos de linguagem para JS
+
+negative:
+   - poderia ter mais gente
