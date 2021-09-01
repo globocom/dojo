@@ -1,0 +1,22 @@
+problem: Implementar HashMaps na mão
+language: javascript
+date: 2021-09-01
+participants:
+   - @tcarreira
+   - @ingridpacheco
+   - @Leonardo-S95
+   - @christianctavares
+   - @lucianapepelucio
+
+suggestions:
+   - 
+
+positive:
+   - todos codamos
+   - gente nova
+   - quase conseguimos acabar, mesmo com os imprevistos
+   - problema interessante
+
+negative:
+   - problemas com o editor
+   - mesmo não seguindo o TDD, podíamos ter escrito testes
