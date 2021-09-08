@@ -1,0 +1,18 @@
+problem: Implementar HashMaps em python (continuação e melhorias)
+language: python
+date: 2021-09-08
+participants:
+   - @tcarreira
+   - @christianctavares
+   - @lucianapepelucio
+
+positive:
+   - conseguimos terminar o problema
+   - python
+   - aprendemos técnicas de pyhton mais avançadas
+   - implementamos TDD
+
+negative:
+   - menos gente
+   - sessão um pouco confusa
+   - a ferramenta está zuada
