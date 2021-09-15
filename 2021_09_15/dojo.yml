@@ -1,0 +1,18 @@
+problem: https://educador.brasilescola.uol.com.br/estrategias-ensino/torre-hanoi.htm
+ language: javascript
+ date: 2021-09-15
+ suggestions: 
+ participants:
+    - @nicolassantos
+    - @tcarreira
+    - @ingridpacheco
+
+ positive:
+    - Todos codaram
+    - Desenvolvemos bem a solução
+    - Discutimos bastante a lógica
+    - Problema muito legal
+    - Terminamos o problema \o/
+
+ negative:
+    - Poucas pessoas
