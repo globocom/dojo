@@ -1,0 +1,43 @@
+Arguments: 
+  /usr/local/Cellar/node/17.0.1/bin/node /usr/local/Cellar/yarn/1.22.17/libexec/bin/yarn.js
+
+PATH: 
+  /usr/local/Cellar/pyenv-virtualenv/1.1.5/shims:/usr/local/opt/m4/bin:/Users/ingrid.pacheco/go/bin:/usr/local/go/bin:/Library/Frameworks/Python.framework/Versions/3.9/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/go/bin:/Library/Apple/usr/bin:/Users/ingrid.pacheco/.rvm/gems/ruby-2.4.6/bin:/Users/ingrid.pacheco/.rvm/gems/ruby-2.4.6@global/bin:/Users/ingrid.pacheco/.rvm/rubies/ruby-2.4.6/bin:/Users/ingrid.pacheco/opt/miniconda3/bin:/Users/ingrid.pacheco/opt/miniconda3/condabin:/Users/ingrid.pacheco/.nvm/versions/node/v12.22.1/bin:/usr/local/Cellar/pyenv-virtualenv/1.1.5/shims:/usr/local/opt/m4/bin:/Users/ingrid.pacheco/go/bin:/Library/Frameworks/Python.framework/Versions/3.9/bin:/Users/ingrid.pacheco/.rvm/bin
+
+Yarn version: 
+  1.22.17
+
+Node version: 
+  17.0.1
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: https://artifactory.globoi.com/artifactory/api/npm/npm-repos/mocha: ETIMEDOUT
+      at Timeout._onTimeout (/usr/local/Cellar/yarn/1.22.17/libexec/lib/cli.js:141543:19)
+      at listOnTimeout (node:internal/timers:557:17)
+      at processTimers (node:internal/timers:500:7)
+
+npm manifest: 
+  {
+    "name": "dojo",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "dependencies": {},
+    "devDependencies": {
+      "mocha": "^5.2.0"
+    },
+    "scripts": {
+      "test": "mocha"
+    },
+    "author": "Globo.com",
+    "license": "ISC"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
