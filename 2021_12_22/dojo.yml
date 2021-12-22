@@ -1,4 +1,8 @@
-problem: #url for problem
+problem: |
+   Temos um mapa guardado em memória.
+   A função ParseMetrics recebe como 2o argumento, um novo mapa que vem de um servidor remoto.
+   O Objetivo é alterar o mapa guardado em memória, para ficar com os dados do remoteMap.
+   Temos que fazer tudo in-place, sem substituir o objeto original.
 language: go
 date: 2021-12-22
 participants:
