@@ -1,0 +1,21 @@
+problem: #url for problem
+language: go
+date: 2021-12-22
+participants:
+   - @tcarreira
+   - @christianctavares
+   - @alexlekito075
+   - @gabhendm
+   - @ingridpacheco
+suggestions:
+   - 
+
+positive:
+   - aprendemos alguma sintaxe do go
+   - problema interessante
+   - trabalhar com fundamentos
+   - ver ponteiros
+
+negative:
+   - nem todos codaram
+   - demorou muito para configurar
