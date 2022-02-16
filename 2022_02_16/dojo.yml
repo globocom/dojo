@@ -1,0 +1,48 @@
+problem: |
+   Uma amiga da Alex deu uma coleção de filmes para ela de presente, e
+   Alex está animada para assistir todos eles o mals rápido possível. A
+   duração dos filmes é dada em um vetor duracoes(n), onde n é o
+   número do filme, e cada filme dura entre 1.01 e 3.00 horas (até duas
+   casas decimals). Alex quer gastar no máximo 3.00 horas assistindo
+   filmes por dia, mas também quer assistir a coleção completa no
+   mínimo número de dias possível. Alex nunca para de assistir um filme
+   na metade., Isso é, se Alex escolheu um filme, Alex assiste o filme por
+   completo no mesmo dia.
+   Ache o número mínimo de dias necessário para assistir a coleção de
+   filme completa.
+
+   Exemplo
+   n= 5
+   duracoes = (1.90, 1.04, 1.25, 2.5, 1.75)
+   Considerando um passo a passo de 1 em 1, Alex consegue assistir os
+   filmes em um mínimo de 3 dias:
+
+   Dia 1: primeiro e segundo filmes: 1.90 + 1.04 = 2.94 ≤ 3.00
+   Dla 2: quarto filme: 2.5 $ 3.00
+   Dia 3: terceiro e quinto filmes: 1.25 + 1.75 = 3.00 ≤ 3.00
+
+
+language: go
+date: 2022-02-16
+participants:
+   - Raphael Rossi
+   - Pedro Paulo
+   - Gabriel
+   - RMachado
+   - Christian 
+   - Severino
+   - tcarreira
+suggestions:
+   - 
+
+positive:
+   - muita gente
+   - o Rafa gostou de programar
+   - mais gente nova
+   - o problema era mais difícil
+   - 
+
+negative:
+   - o problema era mais difícil
+   - o Go não é fácil
+   - não terminamos o problema
