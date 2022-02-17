@@ -1,26 +1,27 @@
 package dojo
 
-func main(movies []float64) int {
-	days := 0
-	current_day := 0.0
-	for _, movie := range movies { // movie = 1.90 | 1.04 | 1.25 | 1.75 | 2.5
-		if current_day+movie <= 3.0 {
-			current_day += movie // current_day = 2.94
-		} else {
-			days++                  // days = 2
-			current_day = 0 + movie // 1.25
+func main(movies []float64) (days int) {
+	movies_used := map[int]float64{}
+	for idx, duration := range movies {
+		if _, ok := movies_used[idx]; !ok || idx == 0 {
+			movies_used[idx] = duration
+			best_duration := 0.0
+			best_idx := 0
+
+			for i, durationAux := range movies {
+				if _, ok := movies_used[i]; !ok && durationAux+duration <= 3.0 && durationAux > best_duration {
+					best_duration = durationAux
+					best_idx = i
+				}
+			}
+
+			if best_idx != 0 {
+				movies_used[best_idx] = best_duration
+			}
+			days++
 		}
 	}
-	// current_day := 2.6
-	return days + 1
-
-	// if len(movies) == 4 && movies[3] == 2.9 {
-	// 	return 4
-	// }
-	// if len(movies) == 4 {
-	// 	return 2
-	// }
-	// return 3
+	return
 }
 
 // Gabriel
