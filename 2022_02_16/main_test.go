@@ -24,6 +24,18 @@ func TestMain4Days(t *testing.T) {
 	assert.Equal(4, main(movies), "should be 4 days")
 }
 
+func TestMain10Days(t *testing.T) {
+	assert := assert.New(t)
+	movies := []float64{2.9, 2.8, 2.7, 2.6, 1.8, 1.9, 2.0, 1.5, 1.7, 3.0}
+	assert.Equal(10, main(movies), "should be 10 days")
+}
+
+func TestMain7Days(t *testing.T) {
+	assert := assert.New(t)
+	movies := []float64{1.01, 1.98, 1.98, 3.0, 1.8, 1.99, 1.2, 1.02, 1.7, 1.5}
+	assert.Equal(7, main(movies), "should be 7 days")
+}
+
 //
 //
 // Uma amiga da Alex deu uma coleção de filmes para ela de presente, e
