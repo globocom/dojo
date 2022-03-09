@@ -1,0 +1,25 @@
+problem: #url for problem
+language: python
+date: #yyyy-mm-dd
+participants:
+   - @Christianctavares
+   - @RaphaelVRossi
+   - @tcarreira
+   - @gbottari
+   - @brunorosilva
+   - @devppjr
+
+suggestions:
+   - Trazer mais pessoas para o dojo!
+   
+positive:
+   - Praticamos o TDD 
+   - Resolvemos antes do tempo
+   - Todos colaboraram
+   - Respeitamos a ordem
+   - implementamos novas funcionalidades sem quebrar o codigo
+   - pessoas novas
+   - pessoas recorrentes
+
+negative:
+   - Tomamos um While true e quebrou o pc
