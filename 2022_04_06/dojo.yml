@@ -1,0 +1,18 @@
+problem: #url for problem
+language: python
+date: 2022-04-06
+participants:
+   - @tcarreira
+   - @brunorosilva
+   - @linharesh
+
+suggestions:
+   - 
+
+positive:
+   - resolvemos o problema
+   - gente nova
+   - list comprehension
+
+negative:
+   - 
