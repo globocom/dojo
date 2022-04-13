@@ -1,0 +1,17 @@
+problem: https://adventofcode.com/2016/day/2
+language: python
+date: 2022_04_13
+participants:
+   - @tcarreira
+   - @devppjr
+   - @raphaelvrossi
+   - @christianctavares
+suggestions:
+   - 
+
+positive:
+   - Outra pessoa como host
+
+negative:
+   - Não teve pessoas novas
+   - Código fixo 
