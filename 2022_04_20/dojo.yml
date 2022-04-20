@@ -1,0 +1,21 @@
+problem: #url for problem
+language: javascript
+date: #yyyy-mm-dd
+participants:
+   - @christianctavares
+   - @devppjr
+   - @brunacm77
+   - @raphaelvrossisi
+   - @fguisso
+   - @pedromarquezini
+
+suggestions:
+   - 
+
+positivea:
+   - muita gente nova
+   - conseguimos fazer aa primeira parte
+   - aprendemos como exportar functions no js
+
+negative:
+   - nao conseguimos fazer a segunda parte =(
