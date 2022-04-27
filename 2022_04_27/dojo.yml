@@ -1,0 +1,16 @@
+problem: https://adventofcode.com/2016/day/4
+language: python
+date: 2022-04-27
+participants:
+   - @raphaelvrossi
+   - @tcarreira
+suggestions:
+   - 
+
+positive:
+   - uso list comprehension no python
+   - resolvemos os dois problemas
+   - vimos o collections.Counter do python
+
+negative:
+   - poucas pessoas hoje
