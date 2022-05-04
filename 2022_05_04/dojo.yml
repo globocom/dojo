@@ -1,0 +1,20 @@
+problem: https://adventofcode.com/2016/day/5
+language: python
+date: 2022-05-04
+participants:
+   - @raphaelvrossi
+   - @devppjr
+   - @tcarreira
+   - @christianctavares
+   - @rrazvd
+suggestions:
+   - 
+
+positive:
+   - duas pessoas novas
+   - conseguimos resolver o primeiro problema
+
+negative:
+   - não deu tempo para resolver o segundo problema
+   - maquina travou por causa do while
+   - pessoal teve que sair no meio do dojo
