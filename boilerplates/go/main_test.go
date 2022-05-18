@@ -6,7 +6,7 @@ import (
 	"github.com/stretchr/testify/assert"
 )
 
-func TestIsPointIn(t *testing.T) {
+func TestMain(t *testing.T) {
 	assert := assert.New(t)
 	assert.Equal(main(), true, "must be true")
 }

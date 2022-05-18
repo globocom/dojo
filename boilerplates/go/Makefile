@@ -1,6 +1,6 @@
 
 setup:
-	@go get github.com/stretchr/testify/assert
+	@go mod tidy
 
 test:
 	@go test
