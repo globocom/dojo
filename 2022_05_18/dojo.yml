@@ -1,0 +1,17 @@
+problem: https://adventofcode.com/2016/day/7
+language: go
+date: 2022-05-18
+participants:
+   - @tcarreira
+   - @pauloricardokoch
+suggestions:
+   - 
+
+positive:
+   - codar em go
+   - conseguimos implementar a solução da parte 1
+   - problema bacano
+
+negative:
+   - poucas pessoas
+   - demoramos um pouco mais
