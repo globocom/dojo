@@ -1,0 +1,19 @@
+problem: https://adventofcode.com/2017/day/2
+language: go
+date: 2022-06-01
+participants:
+   - @devppjr
+   - @raphaelvrossi
+   - @victorwsantos
+   - @pcandido
+   - @tcarreira
+suggestions:
+   - Melhorar stack de testes seguindo um TDD mais proximo da realidade
+
+positive:
+   - Completamos os dois desafios antes de acabar o tempo
+   - Pessoas que ja participaram do dojo voltaram
+
+negative:
+   - Nenhuma pessoa nova
+   - o vscode live está piorando
