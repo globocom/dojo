@@ -1,0 +1,23 @@
+problem: https://adventofcode.com/2017/day/3
+language: python
+date: #2022-06-08
+participants:
+   - @Christianctavares
+   - @devppjr
+   - @raphaelvrossi
+   - @tcarreira
+   - @lucianapepelucio
+   - @FLEME5
+
+suggestions:
+   - 
+
+positive:
+   - fizemos um TDD a sério
+   - conseguimos chegar em uma solução
+   - aplicamos babysteps
+   - novas pessoas
+   - voltaram pessoas que já tinham participado
+
+negative:
+   - Não fizemos a parte dois do teste
